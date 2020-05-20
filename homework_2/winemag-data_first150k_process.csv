@@ -1,0 +1,1001 @@
+,country,designation,points,price,province,region_1,region_2,variety,winery
+0,US,Martha's Vineyard,points_96,price_235.0,California,region_1_Napa Valley,region_2_Napa,Cabernet Sauvignon,Heitz
+1,Spain,Carodorum Selección Especial Reserva,points_96,price_110.0,Northern Spain,region_1_Toro,region_2_nan,Tinta de Toro,Bodega Carmen Rodríguez
+2,US,Special Selected Late Harvest,points_96,price_90.0,California,region_1_Knights Valley,region_2_Sonoma,Sauvignon Blanc,Macauley
+3,US,Reserve,points_96,price_65.0,Oregon,region_1_Willamette Valley,region_2_Willamette Valley,Pinot Noir,Ponzi
+4,France,La Brûlade,points_95,price_66.0,Provence,region_1_Bandol,region_2_nan,Provence red blend,Domaine de la Bégude
+5,Spain,Numanthia,points_95,price_73.0,Northern Spain,region_1_Toro,region_2_nan,Tinta de Toro,Numanthia
+6,Spain,San Román,points_95,price_65.0,Northern Spain,region_1_Toro,region_2_nan,Tinta de Toro,Maurodos
+7,Spain,Carodorum Único Crianza,points_95,price_110.0,Northern Spain,region_1_Toro,region_2_nan,Tinta de Toro,Bodega Carmen Rodríguez
+8,US,Silice,points_95,price_65.0,Oregon,region_1_Chehalem Mountains,region_2_Willamette Valley,Pinot Noir,Bergström
+9,US,Gap's Crown Vineyard,points_95,price_60.0,California,region_1_Sonoma Coast,region_2_Sonoma,Pinot Noir,Blue Farm
+10,Italy,Ronco della Chiesa,points_95,price_80.0,Northeastern Italy,region_1_Collio,region_2_nan,Friulano,Borgo del Tiglio
+11,US,Estate Vineyard Wadensvil Block,points_95,price_48.0,Oregon,region_1_Ribbon Ridge,region_2_Willamette Valley,Pinot Noir,Patricia Green Cellars
+12,US,Weber Vineyard,points_95,price_48.0,Oregon,region_1_Dundee Hills,region_2_Willamette Valley,Pinot Noir,Patricia Green Cellars
+13,France,Château Montus Prestige,points_95,price_90.0,Southwest France,region_1_Madiran,region_2_nan,Tannat,Vignobles Brumont
+14,US,Grace Vineyard,points_95,price_185.0,Oregon,region_1_Dundee Hills,region_2_Willamette Valley,Pinot Noir,Domaine Serene
+15,US,Sigrid,points_95,price_90.0,Oregon,region_1_Willamette Valley,region_2_Willamette Valley,Chardonnay,Bergström
+16,US,Rainin Vineyard,points_95,price_325.0,California,region_1_Diamond Mountain District,region_2_Napa,Cabernet Sauvignon,Hall
+17,Spain,6 Años Reserva Premium,points_95,price_80.0,Northern Spain,region_1_Ribera del Duero,region_2_nan,Tempranillo,Valduero
+18,France,Le Pigeonnier,points_95,price_290.0,Southwest France,region_1_Cahors,region_2_nan,Malbec,Château Lagrézette
+19,US,Gap's Crown Vineyard,points_95,price_75.0,California,region_1_Sonoma Coast,region_2_Sonoma,Pinot Noir,Gary Farrell
+20,US,Grignolino,points_95,price_24.0,California,region_1_Napa Valley,region_2_Napa,Rosé,Heitz
+21,Spain,Prado Enea Gran Reserva,points_95,price_79.0,Northern Spain,region_1_Rioja,region_2_nan,Tempranillo Blend,Muga
+22,Spain,Termanthia,points_95,price_220.0,Northern Spain,region_1_Toro,region_2_nan,Tinta de Toro,Numanthia
+23,US,Giallo Solare,points_95,price_60.0,California,region_1_Edna Valley,region_2_Central Coast,Chardonnay,Center of Effort
+24,US,R-Bar-R Ranch,points_95,price_45.0,California,region_1_Santa Cruz Mountains,region_2_Central Coast,Pinot Noir,Comartin
+25,New Zealand,Maté's Vineyard,points_94,price_57.0,Kumeu,region_1_nan,region_2_nan,Chardonnay,Kumeu River
+26,US,Shea Vineyard,points_94,price_62.0,Oregon,region_1_Willamette Valley,region_2_nan,Pinot Noir,Bergström
+27,US,Abetina,points_94,price_105.0,Oregon,region_1_Willamette Valley,region_2_Willamette Valley,Pinot Noir,Ponzi
+28,US,Garys' Vineyard,points_94,price_60.0,California,region_1_Santa Lucia Highlands,region_2_Central Coast,Pinot Noir,Roar
+29,US,The Funk Estate,points_94,price_60.0,Washington,region_1_Walla Walla Valley (WA),region_2_Columbia Valley,Syrah,Saviah
+30,Bulgaria,Bergulé,points_90,price_15.0,Bulgaria,region_1_nan,region_2_nan,Mavrud,Villa Melnik
+31,US,Babushka,points_90,price_37.0,California,region_1_Russian River Valley,region_2_Sonoma,Chardonnay,Zepaltas
+32,Italy,Vigna Piaggia,points_90,price_nan,Tuscany,region_1_Brunello di Montalcino,region_2_nan,Sangiovese,Abbadia Ardenga
+33,France,Nonpareil Trésor Rosé Brut,points_90,price_22.0,France Other,region_1_Vin Mousseux,region_2_nan,Sparkling Blend,Bouvet-Ladubay
+34,US,Conner Lee Vineyard,points_90,price_42.0,Washington,region_1_Columbia Valley (WA),region_2_Columbia Valley,Chardonnay,Buty
+35,Italy,Riserva,points_90,price_135.0,Tuscany,region_1_Brunello di Montalcino,region_2_nan,Sangiovese,Carillon
+36,France,,points_90,price_60.0,Rhône Valley,region_1_Châteauneuf-du-Pape,region_2_nan,Rhône-style White Blend,Clos de L'Oratoire des Papes
+37,Italy,,points_90,price_29.0,Tuscany,region_1_Vino Nobile di Montepulciano,region_2_nan,Sangiovese,Avignonesi
+38,Italy,,points_90,price_23.0,Tuscany,region_1_Chianti Classico,region_2_nan,Sangiovese,Casina di Cornia
+39,Italy,Riserva,points_90,price_29.0,Tuscany,region_1_Chianti Classico,region_2_nan,Red Blend,Castello di Monterinaldi
+40,Spain,Amandi,points_90,price_17.0,Galicia,region_1_Ribeira Sacra,region_2_nan,Mencía,Don Bernardino
+41,Spain,Alfonso Oloroso Seco,points_90,price_26.0,Andalucia,region_1_Jerez,region_2_nan,Palomino,González Byass
+42,US,Private Reserve,points_90,price_55.0,Idaho,region_1_nan,region_2_nan,Petite Sirah,Huston
+43,Italy,Riserva,points_90,price_39.0,Tuscany,region_1_Chianti Classico,region_2_nan,Red Blend,Rignana
+44,France,Coteaux,points_90,price_69.0,Rhône Valley,region_1_Cornas,region_2_nan,Syrah,Tardieu-Laurent
+45,Italy,Vigneto Odoardo Beccari Riserva,points_90,price_30.0,Tuscany,region_1_Chianti Classico,region_2_nan,Red Blend,Vignavecchia
+46,Italy,Poggio alle Mura,points_90,price_90.0,Tuscany,region_1_Brunello di Montalcino,region_2_nan,Sangiovese,Banfi
+47,US,Estate Grown,points_90,price_60.0,California,region_1_Mount Veeder,region_2_Napa,Cabernet Sauvignon,Brandlin
+48,Italy,,points_90,price_50.0,Tuscany,region_1_Brunello di Montalcino,region_2_nan,Sangiovese,Brunelli Martoccia
+49,US,,points_90,price_40.0,Washington,region_1_Red Mountain,region_2_Columbia Valley,Cabernet Sauvignon,Canvasback
+50,Italy,Riserva,points_90,price_100.0,Tuscany,region_1_Brunello di Montalcino,region_2_nan,Sangiovese,Capanne Ricci
+51,France,,points_90,price_68.0,Burgundy,region_1_Chassagne-Montrachet,region_2_nan,Chardonnay,Chartron et Trébuchet
+52,France,Les 7 Hommes,points_90,price_42.0,Loire Valley,region_1_Sancerre,region_2_nan,Sauvignon Blanc,Cherrier Frères
+53,France,L'Inédit,points_90,price_28.0,Loire Valley,region_1_Coteaux du Giennois,region_2_nan,Pinot Noir,Clement et Florian Berthier
+54,US,,points_90,price_18.0,California,region_1_Russian River Valley,region_2_Sonoma,Chardonnay,De Loach
+55,US,Four Flags,points_90,price_69.0,Washington,region_1_Red Mountain,region_2_Columbia Valley,Cabernet Sauvignon,DeLille
+56,France,Le Pavé,points_90,price_nan,Loire Valley,region_1_Sancerre,region_2_nan,Sauvignon Blanc,Domaine Vacheron
+57,US,Reserve,points_90,price_25.0,New York,region_1_Finger Lakes,region_2_Finger Lakes,Riesling,Dr. Konstantin Frank
+58,US,Final Final,points_90,price_30.0,Washington,region_1_Columbia Valley (WA),region_2_Columbia Valley,Cabernet Sauvignon-Syrah,Efeste
+59,Italy,Poggio Bestiale,points_90,price_60.0,Tuscany,region_1_Maremma Toscana,region_2_nan,Red Blend,Fattoria di Magliano
+60,Argentina,The Apple Doesn't Fall Far From The Tree,points_91,price_30.0,Mendoza Province,region_1_Mendoza,region_2_nan,Malbec,Matias Riccitelli
+61,Australia,,points_91,price_36.0,Victoria,region_1_Mornington Peninsula,region_2_nan,Pinot Noir,Moorooduc
+62,Argentina,Alegoría Gran Reserva,points_91,price_25.0,Mendoza Province,region_1_Mendoza,region_2_nan,Malbec,Navarro Correas
+63,France,L'Homme Mort Premier Cru,points_91,price_45.0,Burgundy,region_1_Chablis,region_2_nan,Chardonnay,Domaine Chenevières
+64,Portugal,,points_91,price_23.0,Alentejano,region_1_nan,region_2_nan,Portuguese Red,Herdade do Rocim
+65,US,Estate Select,points_91,price_36.0,California,region_1_Santa Clara Valley,region_2_Central Coast,Syrah,Jason-Stephens
+66,France,Fourchaume Premier Cru,points_91,price_38.0,Burgundy,region_1_Chablis,region_2_nan,Chardonnay,Louis Max
+67,US,Animo,points_91,price_85.0,California,region_1_Napa Valley,region_2_Napa,Cabernet Sauvignon,Michael Mondavi Family Estate
+68,US,Schindler Vineyard,points_91,price_50.0,Oregon,region_1_Eola-Amity Hills,region_2_Willamette Valley,Pinot Noir,Panther Creek
+69,US,Barrel Select,points_91,price_60.0,California,region_1_Rutherford,region_2_Napa,Cabernet Sauvignon,Provenance Vineyards
+70,US,District Collection,points_91,price_85.0,California,region_1_St. Helena,region_2_Napa,Cabernet Sauvignon,Raymond
+71,US,,points_91,price_45.0,California,region_1_Sonoma Coast,region_2_Sonoma,Pinot Noir,Red Car
+72,Italy,Bussia Riserva,points_91,price_nan,Piedmont,region_1_Barolo,region_2_nan,Nebbiolo,Silvano Bolmida
+73,US,,points_91,price_19.0,Oregon,region_1_Willamette Valley,region_2_Willamette Valley,Pinot Gris,Trinity Vineyards
+74,Portugal,Premium,points_91,price_15.0,Alentejo,region_1_nan,region_2_nan,Portuguese Red,Adega Cooperativa de Borba
+75,US,Premier Cuvée,points_91,price_54.0,Oregon,region_1_Willamette Valley,region_2_Willamette Valley,Pinot Noir,Archery Summit
+76,France,Le Nombre d'Or Brut Nature,points_91,price_85.0,Champagne,region_1_Champagne,region_2_nan,Chardonnay,Aubry
+77,US,Juliana Vineyard,points_91,price_38.0,California,region_1_Napa Valley,region_2_Napa,Sauvignon Blanc,B Cellars
+78,US,,points_91,price_28.0,California,region_1_Napa Valley,region_2_Napa,Cabernet Sauvignon,B Side
+79,Italy,Boscato,points_91,price_75.0,Piedmont,region_1_Barolo,region_2_nan,Nebbiolo,Bel Colle
+80,US,Aeolian,points_91,price_42.0,Oregon,region_1_Eola-Amity Hills,region_2_Willamette Valley,Pinot Noir,Bethel Heights
+81,Israel,Reserve,points_91,price_25.0,Upper Galilee,region_1_nan,region_2_nan,Cabernet Sauvignon,Binyamina
+82,Italy,Palliano Riserva,points_91,price_nan,Piedmont,region_1_Roero,region_2_nan,Nebbiolo,Ceste
+83,Italy,del Comune di Serralunga d'Alba,points_91,price_59.0,Piedmont,region_1_Barolo,region_2_nan,Nebbiolo,Cascina Cucco
+84,Italy,Bricco Luciani,points_91,price_85.0,Piedmont,region_1_Barolo,region_2_nan,Nebbiolo,Cascina del Monastero
+85,Italy,Bricco Gattera,points_91,price_80.0,Piedmont,region_1_Barolo,region_2_nan,Nebbiolo,Cordero di Montezemolo
+86,France,Montmains Premier Cru,points_91,price_45.0,Burgundy,region_1_Chablis,region_2_nan,Chardonnay,Domaine Gérard Duplessis
+87,US,,points_91,price_22.0,California,region_1_Napa Valley,region_2_Napa,Cabernet Sauvignon,Eagle Glen
+88,US,Bacigalupi Vineyard,points_91,price_65.0,California,region_1_Russian River Valley,region_2_Sonoma,Pinot Noir,Eleven Eleven
+89,US,Magnificat,points_91,price_50.0,California,region_1_Napa Valley,region_2_Napa,Meritage,Franciscan
+90,US,,points_86,price_10.0,California,region_1_California,region_2_California Other,Cabernet Sauvignon,Belle Ambiance
+91,Portugal,Marquês de Marialva Rosé Bruto,points_86,price_12.0,Beira Atlantico,region_1_nan,region_2_nan,Baga,Adega de Cantanhede
+92,Italy,Nature,points_86,price_22.0,Veneto,region_1_Prosecco,region_2_nan,Glera,De Stefani
+93,US,Small Lot Blend,points_86,price_13.0,California,region_1_Mendocino County,region_2_Mendocino/Lake Counties,Chardonnay,Parducci
+94,Portugal,Muros de Vinha,points_86,price_10.0,Douro,region_1_nan,region_2_nan,Portuguese Red,Quinta do Portal
+95,France,Château Beauvillain-Monpezat,points_86,price_14.0,Southwest France,region_1_Cahors,region_2_nan,Malbec-Merlot,Rigal
+96,US,,points_86,price_18.0,California,region_1_California,region_2_California Other,Chardonnay,The Naked Grape
+97,US,,points_86,price_36.0,California,region_1_Sonoma Valley,region_2_Sonoma,Cabernet Sauvignon,Tin Barn
+98,France,Pigmentum,points_86,price_15.0,Southwest France,region_1_Buzet,region_2_nan,Merlot-Malbec,Georges Vigouroux
+99,France,Pigmentum,points_86,price_10.0,Southwest France,region_1_Côtes de Gascogne,region_2_nan,Ugni Blanc-Colombard,Georges Vigouroux
+100,US,,points_86,price_24.0,California,region_1_South Coast,region_2_South Coast,Viognier,Hawk Watch Winery
+101,US,Stephanie,points_86,price_50.0,California,region_1_Napa Valley,region_2_Napa,Cabernet Sauvignon,Hestan
+102,Italy,,points_86,price_45.0,Tuscany,region_1_Brunello di Montalcino,region_2_nan,Sangiovese,Il Grappolo
+103,US,Bella's Blend,points_86,price_48.0,California,region_1_Knights Valley,region_2_Sonoma,Cabernet Sauvignon-Cabernet Franc,Ehret
+104,US,Tears of Dew Late Harvest,points_86,price_20.0,California,region_1_Paso Robles,region_2_Central Coast,Moscato,EOS
+105,US,Tudor Hills Vineyard,points_86,price_17.0,Washington,region_1_Yakima Valley,region_2_Columbia Valley,Pinot Grigio,Martinez & Martinez
+106,US,,points_86,price_12.0,California,region_1_Lodi,region_2_Central Valley,Cabernet Franc,Ironstone
+107,US,,points_86,price_10.0,California,region_1_California,region_2_California Other,Chardonnay,Leaping Horse
+108,US,,points_86,price_13.0,California,region_1_California,region_2_California Other,White Blend,Kitchen Sink
+109,US,Homestead Block,points_86,price_45.0,California,region_1_Napa Valley,region_2_Napa,Chardonnay,Kuleto Estate
+110,Portugal,Companhia das Lezírias Herdade de Catapereiro Single Vineyard,points_86,price_12.0,Tejo,region_1_nan,region_2_nan,Portuguese Red,Wines & Winemakers
+111,Argentina,Terroir Único Pinot Noir,points_86,price_12.0,Mendoza Province,region_1_Tupungato,region_2_nan,Rosé,Zorzal
+112,US,Limited Release Cold Springs Vineyard,points_86,price_125.0,California,region_1_Howell Mountain,region_2_Napa,Cabernet Sauvignon,Charles Krug
+113,US,Castle Hill Vineyard,points_86,price_25.0,New York,region_1_Hudson River Region,region_2_New York Other,Riesling,Millbrook
+114,South Africa,Circumstance,points_86,price_20.0,Stellenbosch,region_1_nan,region_2_nan,Sauvignon Blanc,Waterkloof
+115,Argentina,Reserva,points_86,price_15.0,Mendoza Province,region_1_Valle de Uco,region_2_nan,Malbec,Viñalba
+116,Spain,Dulce Tinto,points_86,price_nan,Levante,region_1_Jumilla,region_2_nan,Monastrell,Casa de la Ermita
+117,France,,points_86,price_20.0,Southwest France,region_1_Gaillac,region_2_nan,Rosé,Château Clément Termes
+118,France,Il est des nôôôtres!,points_86,price_15.0,Southwest France,region_1_nan,region_2_nan,Gamay,Château Coutinel
+119,Portugal,Convento da Vila,points_86,price_7.0,Alentejano,region_1_nan,region_2_nan,Portuguese Red,Adega Cooperativa de Borba
+120,US,The Flyer,points_91,price_59.0,California,region_1_Russian River Valley,region_2_Sonoma,Pinot Noir,MacPhail
+121,US,Charles Vineyard Clone 05,points_91,price_49.0,California,region_1_Anderson Valley,region_2_Mendocino/Lake Counties,Pinot Noir,Foursight
+122,US,Solomon Hills Vineyard Rosé,points_91,price_42.0,California,region_1_Santa Maria Valley,region_2_Central Coast,Sparkling Blend,Goat Bubbles
+123,US,Paris Tasting Commemorative,points_91,price_93.0,California,region_1_Napa Valley,region_2_Napa,Chardonnay,Grgich Hills
+124,US,Methode a l'Ancienne,points_91,price_32.0,California,region_1_Anderson Valley,region_2_Mendocino/Lake Counties,Pinot Noir,Navarro
+125,US,,points_91,price_20.0,California,region_1_Anderson Valley,region_2_Mendocino/Lake Counties,Pinot Noir,Navarro
+126,US,Grand Wren,points_90,price_100.0,California,region_1_Amador County,region_2_Sierra Foothills,Zinfandel,Renwood
+127,US,Central Park West Vineyard,points_90,price_50.0,California,region_1_St. Helena,region_2_Napa,Cabernet Sauvignon,Trinchero
+128,Spain,Arnegui Reserva,points_90,price_22.0,Northern Spain,region_1_Rioja,region_2_nan,Tempranillo,Pagos del Rey
+129,Italy,Chianta Bianco,points_90,price_45.0,Sicily & Sardinia,region_1_Etna,region_2_nan,White Blend,Biondi
+130,Italy,,points_90,price_18.0,Southern Italy,region_1_Greco di Tufo,region_2_nan,Greco,Cantine di Marzo
+131,US,,points_90,price_45.0,California,region_1_Santa Lucia Highlands,region_2_Central Coast,Chardonnay,Alexander-Smith
+132,US,Cooper Ranch,points_90,price_26.0,California,region_1_Amador County,region_2_Sierra Foothills,Barbera,Andis
+133,US,,points_90,price_16.0,California,region_1_Sonoma County,region_2_Sonoma,Chardonnay,Benziger
+134,US,Longwood,points_90,price_30.0,California,region_1_Napa Valley,region_2_Napa,Cabernet Sauvignon,Beaucanon
+135,US,Estate,points_90,price_42.0,California,region_1_Adelaida District,region_2_Central Coast,Grenache,Brecon Estate
+136,US,Mustang Springs,points_90,price_38.0,California,region_1_Adelaida District,region_2_Central Coast,Zinfandel,Peachy Canyon
+137,US,SMC,points_90,price_48.0,California,region_1_California,region_2_California Other,Rhône-style Red Blend,Three
+138,Spain,Crianza,points_90,price_17.0,Northern Spain,region_1_Rioja,region_2_nan,Tempranillo,Valdelacierva
+139,France,Le,points_90,price_18.0,Languedoc-Roussillon,region_1_Coteaux du Languedoc Pic Saint Loup,region_2_nan,Rosé,Château de Lancyre
+140,France,,points_90,price_15.0,Bordeaux,region_1_Bordeaux Rosé,region_2_nan,Rosé,Château Suau
+141,US,Rte Blanc,points_90,price_28.0,California,region_1_Napa Valley,region_2_Napa,Sauvignon Blanc,Clif Family
+142,US,Hook Vineyard,points_90,price_25.0,California,region_1_Santa Lucia Highlands,region_2_Central Coast,Grenache,Santa Cruz Mountain Vineyard
+143,US,,points_90,price_26.0,Oregon,region_1_Applegate Valley,region_2_Southern Oregon,Chardonnay,Schmidt
+144,US,Jespersen Ranch,points_90,price_24.0,California,region_1_Edna Valley,region_2_Central Coast,Albariño,Stephen Ross
+145,US,,points_90,price_55.0,California,region_1_Anderson Valley,region_2_Mendocino/Lake Counties,Pinot Noir,Goldeneye
+146,US,Estate Grown,points_90,price_36.0,California,region_1_Napa Valley,region_2_Napa,Zinfandel,Grgich Hills
+147,Spain,,points_90,price_17.0,Galicia,region_1_Rías Baixas,region_2_nan,Albariño,Mar de Viñas
+148,US,,points_90,price_40.0,California,region_1_Sta. Rita Hills,region_2_Central Coast,Syrah,Kessler-Haak
+149,US,,points_90,price_28.0,California,region_1_Ballard Canyon,region_2_Central Coast,Malvasia Bianca,Larner
+150,US,,points_89,price_50.0,Oregon,region_1_Willamette Valley,region_2_Willamette Valley,Pinot Noir,Bomb
+151,Greece,Kapnias,points_89,price_24.0,Atalanti Valley,region_1_nan,region_2_nan,White Blend,Hatzimichalis
+152,Spain,Brut Reserva,points_89,price_17.0,Catalonia,region_1_Cava,region_2_nan,Sparkling Blend,Bohigas
+153,Greece,,points_89,price_21.0,Santorini,region_1_nan,region_2_nan,Assyrtiko,Boutari
+154,Greece,Axia Malagouzia,points_89,price_18.0,Florina,region_1_nan,region_2_nan,Malagouzia,Alpha Estate
+155,Chile,Ecos de Rulo Single Vineyard El Chequén Estate,points_89,price_20.0,Marchigue,region_1_nan,region_2_nan,Carmenère,Viña Bisquertt
+156,France,,points_89,price_20.0,Southwest France,region_1_Cahors,region_2_nan,Bordeaux-style Red Blend,Chateau Quattre
+157,US,,points_89,price_24.0,Oregon,region_1_Rogue Valley,region_2_Southern Oregon,Sangiovese,Ledger David
+158,Spain,Viña Real Gran Reserva,points_89,price_44.0,Northern Spain,region_1_Rioja,region_2_nan,Tempranillo,CVNE
+159,Chile,Fina Reserva Ensamblaje Malbec-Cabernet Sauvignon-Syrah,points_89,price_19.0,Colchagua Valley,region_1_nan,region_2_nan,Red Blend,Estampa
+160,US,Range 30 West,points_89,price_42.0,California,region_1_Happy Canyon of Santa Barbara,region_2_Central Coast,Bordeaux-style Red Blend,Foxen 7200
+161,US,,points_89,price_35.0,Oregon,region_1_Oregon,region_2_Oregon Other,Pinot Noir,Irvine Family Vineyards
+162,Spain,Gaudium,points_89,price_44.0,Northern Spain,region_1_Rioja,region_2_nan,Tempranillo Blend,Marqués de Cáceres
+163,US,,points_89,price_16.0,California,region_1_Dunnigan Hills,region_2_Central Valley,Syrah,Matchbook
+164,US,Mill Road Vineyard,points_89,price_23.0,California,region_1_Paso Robles,region_2_Central Coast,Viognier,Eberle
+165,US,Freedom Hill Vineyard,points_89,price_36.0,Oregon,region_1_Willamette Valley,region_2_Willamette Valley,Pinot Noir,Silvan Ridge
+166,Italy,Le Redini,points_89,price_25.0,Tuscany,region_1_Toscana,region_2_nan,Red Blend,Tenuta degli Dei
+167,Italy,Il Guardiano,points_89,price_22.0,Tuscany,region_1_Toscana,region_2_nan,Red Blend,Poggio Mandorlo
+168,Portugal,,points_89,price_20.0,Douro,region_1_nan,region_2_nan,Touriga Nacional,Quinta das Carvalhas
+169,US,Del Arroyo Vineyard,points_89,price_25.0,California,region_1_Livermore Valley,region_2_Central Coast,Chardonnay,Occasio
+170,US,,points_89,price_42.0,California,region_1_Sta. Rita Hills,region_2_Central Coast,Pinot Noir,Sanford
+171,Chile,Family Collection,points_89,price_30.0,Curicó Valley,region_1_nan,region_2_nan,Cabernet Sauvignon-Cabernet Franc,Santa Alba
+172,Greece,,points_89,price_17.0,Nemea,region_1_nan,region_2_nan,Agiorgitiko,Boutari
+173,US,Charles Vineyard Clone O5,points_89,price_49.0,California,region_1_Anderson Valley,region_2_Mendocino/Lake Counties,Pinot Noir,Foursight
+174,France,Héritages Elevé en Foudres de Chêne,points_89,price_16.0,Rhône Valley,region_1_Côtes du Rhône,region_2_nan,Rhône-style Red Blend,Ogier
+175,Spain,Gran Bajoz,points_89,price_30.0,Northern Spain,region_1_Toro,region_2_nan,Tinta de Toro,Pagos del Rey
+176,Italy,Palazzo Altesi,points_89,price_40.0,Tuscany,region_1_Toscana,region_2_nan,Sangiovese,Altesino
+177,Italy,Il Borgo,points_89,price_57.0,Tuscany,region_1_Toscana,region_2_nan,Red Blend,Cabreo
+178,US,Lot 525,points_89,price_29.0,California,region_1_Napa Valley,region_2_Napa,Cabernet Sauvignon,Cameron Hughes
+179,Chile,Perla Negra,points_89,price_61.0,Maule Valley,region_1_nan,region_2_nan,Red Blend,Casa Donoso
+180,US,,points_88,price_25.0,California,region_1_Sonoma Coast,region_2_Sonoma,Chardonnay,Rodney Strong
+181,US,Estate Reserve,points_88,price_25.0,California,region_1_Paso Robles,region_2_Central Coast,Syrah,San Simeon
+182,US,Sonatera Vineyard,points_88,price_49.0,California,region_1_Sonoma Coast,region_2_Sonoma,Pinot Noir,Siduri
+183,US,Boushey Vineyard,points_88,price_20.0,Washington,region_1_Yakima Valley,region_2_Columbia Valley,Picpoul,Syncline
+184,Argentina,Trinità Grand Reserve,points_88,price_26.0,Mendoza Province,region_1_Luján de Cuyo,region_2_nan,Bordeaux-style Red Blend,Piattelli
+185,US,Entwined,points_88,price_34.0,Washington,region_1_Columbia Valley (WA),region_2_Columbia Valley,Bordeaux-style Red Blend,Pondera
+186,US,French Camp Vineyard,points_88,price_38.0,California,region_1_Paso Robles,region_2_Central Coast,Zinfandel,Tobin James
+187,US,French Camp Vineyard,points_88,price_38.0,California,region_1_Paso Robles,region_2_Central Coast,Zinfandel,Tobin James
+188,Spain,Sobre Lías,points_88,price_25.0,Northern Spain,region_1_Valdeorras,region_2_nan,Godello,Valdesil
+189,Spain,Negre,points_87,price_22.0,Catalonia,region_1_Montsant,region_2_nan,Red Blend,Jaspi
+190,Argentina,Reserve,points_87,price_15.0,Mendoza Province,region_1_Tupungato,region_2_nan,Malbec,Tupun
+191,France,,points_87,price_20.0,Bordeaux,region_1_Graves,region_2_nan,Bordeaux-style Red Blend,Château Beauregard Lagupeau
+192,France,,points_87,price_25.0,Bordeaux,region_1_Haut-Médoc,region_2_nan,Bordeaux-style Red Blend,Château du Taillan
+193,France,,points_87,price_20.0,Bordeaux,region_1_Saint-Estèphe,region_2_nan,Bordeaux-style Red Blend,Château la Haye
+194,France,,points_87,price_20.0,Bordeaux,region_1_Fronsac,region_2_nan,Bordeaux-style Red Blend,Château Lalande Mausse
+195,France,,points_87,price_25.0,Bordeaux,region_1_Haut-Médoc,region_2_nan,Bordeaux-style Red Blend,Château Magnol
+196,US,,points_87,price_10.0,California,region_1_California,region_2_California Other,Chardonnay,Grand Pacific
+197,US,Rosé of,points_87,price_18.0,Washington,region_1_Columbia Valley (WA),region_2_Columbia Valley,Malbec,Hamilton
+198,US,Ingle Vineyard Unoaked,points_87,price_18.0,New York,region_1_Finger Lakes,region_2_Finger Lakes,Chardonnay,Heron Hill
+199,US,Semi-Dry,points_87,price_14.0,New York,region_1_Finger Lakes,region_2_Finger Lakes,Riesling,Heron Hill
+200,US,Semi-Dry,points_87,price_14.0,New York,region_1_Finger Lakes,region_2_Finger Lakes,Riesling,Fox Run
+201,US,Ice Wine,points_87,price_40.0,New York,region_1_Finger Lakes,region_2_Finger Lakes,Cabernet Franc,Glenora
+202,France,,points_87,price_18.0,Bordeaux,region_1_Médoc,region_2_nan,Bordeaux-style Red Blend,Château Roc Taillade
+203,France,,points_87,price_20.0,Bordeaux,region_1_Haut-Médoc,region_2_nan,Bordeaux-style Red Blend,Château Sénéjac
+204,US,,points_87,price_10.0,Washington,region_1_Columbia Valley (WA),region_2_Columbia Valley,Gewürztraminer,Chateau Ste. Michelle
+205,US,,points_87,price_11.0,Washington,region_1_Columbia Valley (WA),region_2_Columbia Valley,Merlot,Castle Rock
+206,US,,points_87,price_36.0,Washington,region_1_Columbia Valley (WA),region_2_Columbia Valley,Cabernet Sauvignon,Dussek Family Cellars
+207,US,,points_87,price_20.0,New York,region_1_Finger Lakes,region_2_Finger Lakes,Cabernet Franc,Serenity
+208,US,Weinbau,points_87,price_32.0,Washington,region_1_Wahluke Slope,region_2_Columbia Valley,Grenache,Sol Stone
+209,Spain,Yá Cuvée 23 Brut Rosé,points_87,price_18.0,Catalonia,region_1_Cava,region_2_nan,Sparkling Blend,Sumarroca
+210,Portugal,Reserva,points_93,price_55.0,Douro,region_1_nan,region_2_nan,Portuguese Red,Poças
+211,Italy,Nervo,points_93,price_49.0,Piedmont,region_1_Barbaresco,region_2_nan,Nebbiolo,Rizzi
+212,US,Rocky Ridge Vineyard,points_93,price_50.0,California,region_1_Rockpile,region_2_Sonoma,Zinfandel,Robert Biale
+213,Italy,Fausoni,points_93,price_58.0,Piedmont,region_1_Barbaresco,region_2_nan,Nebbiolo,Sottimano
+214,France,Rosacker Grand Cru,points_93,price_39.0,Alsace,region_1_Alsace,region_2_nan,Riesling,Domaine Jean-Luc Mader
+215,France,Clos Häuserer Wintzenheim,points_93,price_65.0,Alsace,region_1_Alsace,region_2_nan,Riesling,Domaine Zind-Humbrecht
+216,Morocco,Domaine Excelcio,points_93,price_35.0,Guerrouane,region_1_nan,region_2_nan,Syrah-Grenache,Bernard Magrez
+217,Italy,,points_93,price_80.0,Piedmont,region_1_Barolo,region_2_nan,Nebbiolo,Borgogno
+218,France,Pfingstberg Paradis Grand Cru,points_93,price_42.0,Alsace,region_1_Alsace,region_2_nan,Riesling,Domaine François Schmitt
+219,France,Altenberg de Bergheim Grand Cru Vieilles Vignes,points_93,price_61.0,Alsace,region_1_Alsace,region_2_nan,Riesling,Gustave Lorentz
+220,US,Collaboration Series VI Ciel du Cheval Vineyard,points_93,price_58.0,Washington,region_1_Red Mountain,region_2_Columbia Valley,G-S-M,Force Majeure
+221,US,Hastings Ranch Vineyard,points_93,price_38.0,California,region_1_Paso Robles,region_2_Central Coast,Mourvèdre,Anglim
+222,France,Heissenberg,points_93,price_48.0,Alsace,region_1_Alsace,region_2_nan,Riesling,Domaine Ostertag
+223,US,Stagecoach Vineyards The Biale Block,points_93,price_50.0,California,region_1_Napa Valley,region_2_Napa,Zinfandel,Robert Biale
+224,Italy,Pajorè,points_93,price_58.0,Piedmont,region_1_Barbaresco,region_2_nan,Nebbiolo,Sottimano
+225,France,,points_93,price_120.0,Bordeaux,region_1_Sauternes,region_2_nan,Bordeaux-style White Blend,Château Raymond-Lafon
+226,US,Estate,points_93,price_50.0,California,region_1_Fort Ross-Seaview,region_2_Sonoma,Syrah,Red Car
+227,US,Collaboration Series V Ciel du Cheval Vineyard,points_93,price_80.0,Washington,region_1_Red Mountain,region_2_Columbia Valley,Cabernet Sauvignon,Force Majeure
+228,US,White Hawk Vineyard,points_93,price_40.0,California,region_1_Santa Barbara County,region_2_Central Coast,Syrah,Mulvane Wine Co.
+229,Portugal,Quinta dos Quatro Ventos Reserva,points_93,price_41.0,Douro,region_1_nan,region_2_nan,Portuguese Red,Caves Aliança
+230,US,Double Canyon Vineyard,points_93,price_48.0,Washington,region_1_Horse Heaven Hills,region_2_Columbia Valley,Cabernet Sauvignon,Double Canyon
+231,US,Red Rock Terrace,points_93,price_200.0,California,region_1_Napa Valley,region_2_Napa,Cabernet Sauvignon,Diamond Creek
+232,US,Ciel du Cheval Vineyard,points_93,price_39.0,Washington,region_1_Red Mountain,region_2_Columbia Valley,Petit Verdot,Côtes de Ciel
+233,US,Kingpin,points_93,price_62.0,Washington,region_1_Red Mountain,region_2_Columbia Valley,Cabernet Sauvignon,Sparkman
+234,Italy,,points_93,price_43.0,Piedmont,region_1_Barbaresco,region_2_nan,Nebbiolo,Punset
+235,France,Domaine Saint-Rémy Schlosberg Grand Cru,points_92,price_35.0,Alsace,region_1_Alsace,region_2_nan,Riesling,Domaine Ehrhart
+236,France,Pfersigberg Grand Cru,points_92,price_48.0,Alsace,region_1_Alsace,region_2_nan,Riesling,Domaine Zinck
+237,France,Calcaire,points_92,price_55.0,Alsace,region_1_Alsace,region_2_nan,Riesling,Domaine Zind-Humbrecht
+238,Portugal,Dona Maria Reserva,points_92,price_40.0,Alentejano,region_1_nan,region_2_nan,Portuguese Red,Dona Maria-Júlio Bastos
+239,Italy,Coste Rubin,points_92,price_69.0,Piedmont,region_1_Barbaresco,region_2_nan,Nebbiolo,Fontanafredda
+240,France,,points_88,price_16.0,Bordeaux,region_1_Blaye Côtes de Bordeaux,region_2_nan,Bordeaux-style Red Blend,Château Chantemerle
+241,France,,points_88,price_16.0,Bordeaux,region_1_Bordeaux Blanc,region_2_nan,Bordeaux-style White Blend,Château Chaubinet
+242,France,,points_88,price_nan,Bordeaux,region_1_Pessac-Léognan,region_2_nan,Bordeaux-style White Blend,Château Ferran
+243,France,,points_88,price_15.0,Bordeaux,region_1_Côtes de Bourg,region_2_nan,Bordeaux-style Red Blend,Château Fongalan
+244,France,,points_88,price_13.0,Bordeaux,region_1_Bordeaux Blanc,region_2_nan,Bordeaux-style White Blend,Château Mezain
+245,US,,points_88,price_28.0,California,region_1_Carneros,region_2_Napa-Sonoma,Chardonnay,Clos du Val
+246,US,Estate,points_88,price_36.0,Oregon,region_1_McMinnville,region_2_Willamette Valley,Pinot Noir,Coeur de Terre
+247,Romania,La Umbra,points_88,price_9.0,Colinele Dobrogei,region_1_nan,region_2_nan,Rosé,Cramele Halewood
+248,US,Limited Selection,points_88,price_24.0,California,region_1_Central Coast,region_2_Central Coast,Chardonnay,Daniel Gehrs
+249,US,Cuvée Luke Saralee's Vineyard,points_88,price_30.0,California,region_1_Russian River Valley,region_2_Sonoma,Rhône-style White Blend,Davis Family
+250,US,,points_88,price_25.0,California,region_1_Sonoma County,region_2_Sonoma,Merlot,Decoy
+251,Italy,,points_88,price_34.0,Piedmont,region_1_Barolo,region_2_nan,Nebbiolo,Reversanti
+252,US,Wits' End,points_88,price_60.0,Oregon,region_1_Chehalem Mountains,region_2_Willamette Valley,Pinot Noir,Roco
+253,US,Toyon Farm,points_88,price_54.0,California,region_1_Carneros,region_2_Napa-Sonoma,Pinot Noir,Saintsbury
+254,US,Early,points_88,price_15.0,Oregon,region_1_Willamette Valley,region_2_Willamette Valley,Muscat,Silvan Ridge
+255,Italy,Bussia,points_88,price_56.0,Piedmont,region_1_Barolo,region_2_nan,Nebbiolo,Silvano Bolmida
+256,US,Estate,points_88,price_20.0,California,region_1_Napa Valley,region_2_Napa,Sauvignon Blanc,St. Supéry
+257,US,Guidotti Vineyard,points_88,price_61.0,California,region_1_Santa Lucia Highlands,region_2_Central Coast,Pinot Noir,Testarossa
+258,Italy,,points_88,price_46.0,Piedmont,region_1_Barolo,region_2_nan,Nebbiolo,Trediberri
+259,Spain,Prestigio,points_88,price_30.0,Northern Spain,region_1_Cigales,region_2_nan,Tempranillo,Val de Los Frailes
+260,Spain,Crianza,points_88,price_17.0,Central Spain,region_1_La Mancha,region_2_nan,Tempranillo Blend,Yuntero
+261,France,Noctambule,points_88,price_nan,Loire Valley,region_1_Crémant de Loire,region_2_nan,Chenin Blanc-Chardonnay,Musset-Roullier
+262,US,Querida,points_88,price_40.0,California,region_1_Paso Robles,region_2_Central Coast,Cabernet Sauvignon-Merlot,Oso Libre
+263,US,Primoroso,points_88,price_39.0,California,region_1_Paso Robles,region_2_Central Coast,Red Blend,Oso Libre
+264,Italy,del Comune di Serralunga d'Alba,points_88,price_49.0,Piedmont,region_1_Barolo,region_2_nan,Nebbiolo,Palladino
+265,France,Domaine de Saint-Pierre,points_88,price_23.0,Loire Valley,region_1_Sancerre,region_2_nan,Sauvignon Blanc,Pierre Prieur et Fils
+266,US,,points_88,price_16.0,California,region_1_Monterey County,region_2_Central Coast,Pinot Grigio,Bargetto
+267,US,Anna's Estate Vineyard,points_88,price_32.0,California,region_1_Paso Robles,region_2_Central Coast,Mourvèdre,Adelaida
+268,US,,points_88,price_18.0,California,region_1_Santa Barbara County,region_2_Central Coast,Chardonnay,Alma Rosa
+269,Argentina,Single Vineyard Reserva,points_88,price_15.0,Mendoza Province,region_1_Agrelo,region_2_nan,Cabernet Sauvignon,Lamadrid
+270,France,Pertuisots Premier Cru,points_92,price_92.0,Burgundy,region_1_Beaune,region_2_nan,Pinot Noir,Domaine de Bellene
+271,France,Clos du Cailleret Premier Cru,points_92,price_94.0,Burgundy,region_1_Chassagne-Montrachet,region_2_nan,Chardonnay,Domaine Vincent Girardin
+272,US,Haynes Vineyard,points_92,price_58.0,California,region_1_Coombsville,region_2_Napa,Chardonnay,Failla
+273,US,Suzuri Series Shake Ridge Ranch,points_92,price_50.0,California,region_1_Amador County,region_2_Sierra Foothills,Rhône-style Red Blend,Gallica
+274,US,Vintage Brut,points_92,price_48.0,California,region_1_Russian River Valley,region_2_Sonoma,Sparkling Blend,J Vineyards & Winery
+275,US,,points_92,price_32.0,California,region_1_Sonoma Coast,region_2_Sonoma,Pinot Noir,Les Voleurs
+276,Italy,Sirmian,points_92,price_27.0,Northeastern Italy,region_1_Alto Adige,region_2_nan,Pinot Bianco,Nals Margreid
+277,Portugal,Portal do Fidalgo,points_92,price_35.0,Vinho Verde,region_1_nan,region_2_nan,Alvarinho,Provam
+278,Portugal,Mirabilis Grande Reserva,points_92,price_95.0,Douro,region_1_nan,region_2_nan,Portuguese White,Quinta Nova de Nossa Senhora do Carmo
+279,US,Solomon Hills Vineyard,points_92,price_43.0,California,region_1_Santa Maria Valley,region_2_Central Coast,Pinot Noir,Ryan Cochrane
+280,Italy,Monte Carbonare,points_92,price_33.0,Veneto,region_1_Soave Classico,region_2_nan,Garganega,Suavia
+281,Italy,Quarz,points_92,price_60.0,Northeastern Italy,region_1_Alto Adige,region_2_nan,Sauvignon,Cantina Terlano
+282,France,,points_92,price_nan,Southwest France,region_1_Cahors,region_2_nan,Malbec,Château du Cèdre
+283,France,Réserve,points_92,price_30.0,Bordeaux,region_1_Graves,region_2_nan,Bordeaux-style Red Blend,Château Haut Selve
+284,US,Lampyridae Vineyards,points_92,price_100.0,California,region_1_Mount Veeder,region_2_Napa,Cabernet Sauvignon,Communication Block
+285,US,Le Mistral Vineyard,points_92,price_35.0,California,region_1_Monterey County,region_2_Central Coast,Syrah,Baker & Brain
+286,France,Les Charmes Dessus,points_91,price_60.0,Burgundy,region_1_Santenay,region_2_nan,Chardonnay,Domaine de Bellene
+287,France,Cuvée Germain,points_91,price_16.0,Southwest France,region_1_Côtes du Tarn,region_2_nan,Bordeaux-style Red Blend,Domaine D'en Ségur
+288,France,Quintessence,points_91,price_40.0,Burgundy,region_1_Pouilly-Fuissé,region_2_nan,Chardonnay,Domaine Sangouard-Guyot
+289,US,Clay Court,points_91,price_60.0,Oregon,region_1_Willamette Valley,region_2_Willamette Valley,Pinot Noir,Elk Cove
+290,France,,points_91,price_100.0,Burgundy,region_1_Clos de Vougeot,region_2_nan,Pinot Noir,Evening Land
+291,Portugal,,points_91,price_18.0,Alentejano,region_1_nan,region_2_nan,Touriga Nacional,Herdade de São Miguel
+292,US,,points_91,price_16.0,Oregon,region_1_Oregon,region_2_Oregon Other,Pinot Gris,Iris Vineyards
+293,US,Kruse Vineyards,points_91,price_42.0,California,region_1_Paso Robles,region_2_Central Coast,Syrah,Jack Creek
+294,France,Cami Salié,points_91,price_nan,Southwest France,region_1_Jurançon Sec,region_2_nan,Gros and Petit Manseng,Lionel Osmin & Cie
+295,US,Rosé of,points_91,price_20.0,California,region_1_Napa Valley,region_2_Napa,Pinot Noir,Brick & Mortar
+296,Italy,Prail,points_91,price_25.0,Northeastern Italy,region_1_Alto Adige,region_2_nan,Sauvignon,Colterenzio
+297,Italy,Puiten,points_91,price_23.0,Northeastern Italy,region_1_Alto Adige,region_2_nan,Pinot Grigio,Colterenzio
+298,US,Estate Grown,points_91,price_38.0,California,region_1_Carneros,region_2_Napa-Sonoma,Pinot Noir,Cuvaison
+299,US,Nova Vineyard,points_91,price_32.0,California,region_1_Clear Lake,region_2_Mendocino/Lake Counties,Zinfandel,De Loach
+300,US,The Funk Estate,points_94,price_60.0,Washington,region_1_Walla Walla Valley (WA),region_2_Columbia Valley,Syrah,Saviah
+301,US,Estate Bottled,points_94,price_30.0,California,region_1_Napa Valley,region_2_Napa,Riesling,Smith-Madrone
+302,Italy,Vigneto Monte Sant'Urbano,points_94,price_85.0,Veneto,region_1_Amarone della Valpolicella Classico,region_2_nan,Red Blend,Speri
+303,US,White,points_94,price_30.0,California,region_1_Napa Valley,region_2_Napa,Riesling,Stony Hill
+304,US,Sierra Madre Vineyard,points_94,price_65.0,California,region_1_Santa Maria Valley,region_2_Central Coast,Pinot Noir,Testarossa
+305,New Zealand,Maté's Vineyard,points_94,price_57.0,Kumeu,region_1_nan,region_2_nan,Chardonnay,Kumeu River
+306,US,Bergström Vineyard,points_94,price_90.0,Oregon,region_1_Dundee Hills,region_2_Willamette Valley,Pinot Noir,Bergström
+307,US,Angel Hawk,points_94,price_85.0,California,region_1_Anderson Valley,region_2_Mendocino/Lake Counties,Pinot Noir,Black Kite
+308,US,King Ridge Vineyard Hirsch Selection,points_94,price_70.0,California,region_1_Fort Ross-Seaview,region_2_Sonoma,Pinot Noir,Blue Farm
+309,US,Evenstad Reserve,points_94,price_70.0,Oregon,region_1_Willamette Valley,region_2_Willamette Valley,Pinot Noir,Domaine Serene
+310,US,Bacigalupi Vineyard,points_94,price_60.0,California,region_1_Russian River Valley,region_2_Sonoma,Pinot Noir,Gary Farrell
+311,Italy,Contrada Salvarenza Vecchie Vigne,points_94,price_38.0,Veneto,region_1_Soave Classico,region_2_nan,Garganega,Gini
+312,Italy,La Froscà,points_94,price_29.0,Veneto,region_1_Soave Classico,region_2_nan,Garganega,Gini
+313,US,Outer Limits,points_94,price_155.0,California,region_1_Napa Valley,region_2_Napa,Cabernet Sauvignon,Parallel
+314,US,Durant Vineyard Bishop Block,points_94,price_48.0,Oregon,region_1_Dundee Hills,region_2_Willamette Valley,Pinot Noir,Patricia Green Cellars
+315,US,Godspeed,points_94,price_95.0,California,region_1_Mount Veeder,region_2_Napa,Cabernet Sauvignon,Sbragia
+316,US,Tognetti Vineyard Brut,points_94,price_80.0,California,region_1_Carneros,region_2_Napa-Sonoma,Sparkling Blend,Schramsberg
+317,US,Ribbon Ridge Estate,points_94,price_49.0,Oregon,region_1_Ribbon Ridge,region_2_Willamette Valley,Pinot Noir,Trisaetum
+318,France,Château Montus,points_94,price_35.0,Southwest France,region_1_Madiran,region_2_nan,Tannat-Cabernet,Vignobles Brumont
+319,US,Old Stones,points_94,price_50.0,Washington,region_1_Walla Walla Valley (WA),region_2_Columbia Valley,Syrah,Waters
+320,France,La Bégude,points_94,price_44.0,Provence,region_1_Bandol,region_2_nan,Provence red blend,Domaine de la Bégude
+321,Spain,QP,points_94,price_68.0,Northern Spain,region_1_Rioja,region_2_nan,Tempranillo Blend,Bodega Classica
+322,France,,points_94,price_20.0,Provence,region_1_Coteaux d'Aix-en-Provence,region_2_nan,Rosé,Château Vignelaure
+323,Spain,Prestigio Pago de las Solanas,points_94,price_nan,Northern Spain,region_1_Ribera del Duero,region_2_nan,Red Blend,Matarromera
+324,US,Pellet Vineyard,points_94,price_95.0,California,region_1_Napa Valley,region_2_Napa,Cabernet Sauvignon,Pellet Estate
+325,France,La Bégude,points_94,price_44.0,Provence,region_1_Bandol,region_2_nan,Provence red blend,Domaine de la Bégude
+326,Argentina,Alta Barrancas Vineyards,points_94,price_50.0,Mendoza Province,region_1_Mendoza,region_2_nan,Cabernet Sauvignon,Pascual Toso
+327,France,Garrus,points_94,price_100.0,Provence,region_1_Côtes de Provence,region_2_nan,Rosé,Château d'Esclans
+328,France,Cuvée Marguerite Massaut,points_94,price_70.0,Southwest France,region_1_Cahors,region_2_nan,Malbec,Château Lagrézette
+329,US,Aurora Vineyard,points_94,price_63.0,Oregon,region_1_Willamette Valley,region_2_Willamette Valley,Chardonnay,Ponzi
+330,Italy,Monvigliero,points_91,price_75.0,Piedmont,region_1_Barolo,region_2_nan,Nebbiolo,Fratelli Alessandria
+331,Germany,Graacher Himmelreich Kabinett,points_91,price_23.0,Mosel,region_1_nan,region_2_nan,Riesling,Friedrich-Wilhelm-Gymnasium
+332,US,Latro,points_91,price_50.0,California,region_1_Knights Valley,region_2_Sonoma,Cabernet Sauvignon,Galerie
+333,Spain,Etiqueta Ambar,points_91,price_22.0,Galicia,region_1_Rías Baixas,region_2_nan,Albariño,Granbazán
+334,US,Grieve Family Vineyard,points_91,price_45.0,California,region_1_Napa Valley,region_2_Napa,Sauvignon Blanc,Grieve
+335,Portugal,Grande Rocim Reserva,points_91,price_130.0,Alentejano,region_1_nan,region_2_nan,Alicante Bouschet,Herdade do Rocim
+336,US,XCV,points_91,price_38.0,California,region_1_Paso Robles Willow Creek District,region_2_Central Coast,Rhône-style White Blend,Jada Vineyard & Winery
+337,US,,points_91,price_30.0,Oregon,region_1_Willamette Valley,region_2_Willamette Valley,Pinot Noir,La Crema
+338,US,Rosé of,points_91,price_22.0,California,region_1_Knights Valley,region_2_Sonoma,Syrah,Lawer
+339,Italy,Bergera Pezzole,points_91,price_nan,Piedmont,region_1_Barolo,region_2_nan,Nebbiolo,Le Strette
+340,Italy,Coste di Rose,points_91,price_90.0,Piedmont,region_1_Barolo,region_2_nan,Nebbiolo,Marchesi di Barolo
+341,US,Emblem Oso Vineyard,points_91,price_60.0,California,region_1_Napa Valley,region_2_Napa,Cabernet Sauvignon,Michael Mondavi Family Estate
+342,Italy,Brunate,points_91,price_115.0,Piedmont,region_1_Barolo,region_2_nan,Nebbiolo,Oddero
+343,US,Estate Cuvée,points_91,price_55.0,California,region_1_Russian River Valley,region_2_Sonoma,Pinot Noir,Small Vines
+344,Portugal,Telhas,points_91,price_30.0,Alentejano,region_1_nan,region_2_nan,Rhône-style Red Blend,Terras de Alter
+345,Portugal,Terra d'Alter,points_91,price_14.0,Alentejano,region_1_nan,region_2_nan,Aragonês,Terras de Alter
+346,US,Lone Oak Vineyard,points_91,price_48.0,California,region_1_Santa Lucia Highlands,region_2_Central Coast,Chardonnay,Testarossa
+347,US,Starr Ridge Vineyard Estate,points_91,price_40.0,California,region_1_Russian River Valley,region_2_Sonoma,Chardonnay,Thomas George
+348,Germany,Saulheimer Probstey Trocken,points_91,price_39.0,Rheinhessen,region_1_nan,region_2_nan,Silvaner,Thörle
+349,Italy,Paesi Tuoi,points_91,price_60.0,Piedmont,region_1_Barolo,region_2_nan,Nebbiolo,Vite Colte
+350,US,Sierra Madre Vineyard,points_91,price_50.0,California,region_1_Santa Maria Valley,region_2_Central Coast,Chardonnay,Wedell Cellars
+351,US,Juliard Vineyard,points_91,price_48.0,Oregon,region_1_Dundee Hills,region_2_Willamette Valley,Pinot Noir,Winderlea
+352,France,Grand Cru Blanc de Blancs Chouilly Brut,points_91,price_54.0,Champagne,region_1_Champagne,region_2_nan,Chardonnay,A.R. Lenoble 
+353,Portugal,Garrafeira,points_91,price_42.0,Alentejo,region_1_nan,region_2_nan,Portuguese Red,Adega Cooperativa de Borba
+354,US,Brut Rosé,points_91,price_50.0,Oregon,region_1_Willamette Valley,region_2_Willamette Valley,Sparkling Blend,Argyle
+355,Israel,,points_91,price_40.0,Golan Heights,region_1_nan,region_2_nan,Cabernet Sauvignon,Bazelet HaGolan
+356,US,Rosella's Vineyard,points_91,price_40.0,California,region_1_Santa Lucia Highlands,region_2_Central Coast,Chardonnay,Bernardus
+357,US,,points_91,price_42.0,Oregon,region_1_Willamette Valley,region_2_Willamette Valley,Pinot Noir,Big Table Farm
+358,Italy,Parej,points_91,price_85.0,Piedmont,region_1_Barolo,region_2_nan,Nebbiolo,Icardi
+359,Spain,Crianza,points_91,price_32.0,Northern Spain,region_1_Ribera del Duero,region_2_nan,Tempranillo,Matarromera
+360,US,Cuore della Vigne,points_90,price_41.0,California,region_1_Paso Robles,region_2_Central Coast,Red Blend,Le Vigne
+361,US,Kiler Grove Vineyard,points_90,price_27.0,California,region_1_Paso Robles Willow Creek District,region_2_Central Coast,Ugni Blanc,Paix Sur Terre
+362,US,Winemaker's Reserve,points_90,price_29.0,Oregon,region_1_Umpqua Valley,region_2_Southern Oregon,Grüner Veltliner,Reustle
+363,France,Galets Oligocène,points_90,price_33.0,Alsace,region_1_Alsace,region_2_nan,Pinot Noir,Domaine Bott-Geyl
+364,France,,points_90,price_70.0,Burgundy,region_1_Gevrey-Chambertin,region_2_nan,Pinot Noir,Domaine Faiveley
+365,US,,points_90,price_19.0,Oregon,region_1_Willamette Valley,region_2_Willamette Valley,Pinot Noir,Pike Road
+366,Italy,,points_90,price_22.0,Sicily & Sardinia,region_1_Vittoria,region_2_nan,Frappato,Planeta
+367,Germany,Dry,points_90,price_25.0,Württemberg,region_1_nan,region_2_nan,Lemberger,Schnaitmann
+368,France,Vieilles Vignes,points_90,price_27.0,Alsace,region_1_Alsace,region_2_nan,Sylvaner,Domaine Ostertag
+369,France,Vieilles Vignes,points_90,price_22.0,Alsace,region_1_Alsace,region_2_nan,Chasselas,Domaine Schoffit
+370,France,Zind,points_90,price_30.0,Alsace,region_1_Alsace,region_2_nan,Alsace white blend,Domaine Zind-Humbrecht
+371,US,,points_90,price_15.0,Oregon,region_1_Oregon,region_2_Oregon Other,Pinot Gris,Firesteed
+372,US,Sisters Estate,points_90,price_45.0,Oregon,region_1_Dundee Hills,region_2_Willamette Valley,Pinot Noir,The Eyrie Vineyards
+373,France,Domaine du Pavillon Clos des Ursulines,points_90,price_80.0,Burgundy,region_1_Pommard,region_2_nan,Pinot Noir,Albert Bichot
+374,Italy,Adenzia,points_90,price_nan,Sicily & Sardinia,region_1_Sicilia,region_2_nan,White Blend,Baglio del Cristo di Campobello
+375,Italy,SP68 Bianco,points_90,price_nan,Sicily & Sardinia,region_1_Terre Siciliane,region_2_nan,White Blend,Occhipinti
+376,US,,points_90,price_18.0,Oregon,region_1_Oregon,region_2_Oregon Other,Albariño,J. Scott Cellars
+377,Italy,,points_90,price_19.0,Southern Italy,region_1_Greco di Tufo,region_2_nan,Greco,Villa Raiano
+378,Germany,Bernkasteler Badstube Kabinett,points_90,price_31.0,Mosel,region_1_nan,region_2_nan,Riesling,Dr. H. Thanisch (Erben Thanisch)
+379,US,,points_90,price_15.0,California,region_1_California,region_2_California Other,Cabernet Sauvignon,Hahn
+380,US,,points_90,price_15.0,California,region_1_North Coast,region_2_North Coast,Cabernet Sauvignon,Lyeth
+381,US,Classic Collection,points_90,price_24.0,California,region_1_Napa Valley,region_2_Napa,Merlot,Napa Cellars
+382,US,Rector Creek Vineyard,points_90,price_80.0,California,region_1_Napa Valley,region_2_Napa,Red Blend,Paraduxx
+383,Spain,Reserva,points_90,price_35.0,Northern Spain,region_1_Ribera del Duero,region_2_nan,Tempranillo,Quintana de Cue
+384,Germany,Trocken,points_90,price_40.0,Ahr,region_1_nan,region_2_nan,Früburgunder,Winzergenossenschaft Mayschoss-Altenahr
+385,Spain,Orquestal,points_90,price_28.0,Central Spain,region_1_La Mancha,region_2_nan,Tempranillo,Casa del Valle
+386,US,,points_90,price_50.0,California,region_1_Napa Valley,region_2_Napa,Cabernet Sauvignon,Freemark Abbey
+387,US,Olson Vineyard,points_90,price_28.0,California,region_1_Dry Creek Valley,region_2_Sonoma,Cabernet Sauvignon,Joleté
+388,US,The Truant,points_90,price_36.0,California,region_1_California,region_2_California Other,Rhône-style Red Blend,Prospect 772
+389,US,,points_90,price_40.0,California,region_1_Red Hills Lake County,region_2_Mendocino/Lake Counties,Cabernet Sauvignon,Boatique
+390,US,Proprietor's Reserve,points_90,price_50.0,California,region_1_Central Coast,region_2_Central Coast,Chardonnay,Hearst Ranch
+391,US,Cabovation Destiny Vineyards Mt. Christo Block Reserve,points_90,price_75.0,California,region_1_Paso Robles,region_2_Central Coast,Cabernet Sauvignon,Hunt Cellars
+392,Italy,,points_90,price_60.0,Tuscany,region_1_Brunello di Montalcino,region_2_nan,Sangiovese,La Fiorita
+393,US,Seven Hills Vineyard,points_90,price_46.0,Washington,region_1_Walla Walla Valley (WA),region_2_Columbia Valley,Malbec,Merry Cellars
+394,Canada,Compendium,points_90,price_70.0,British Columbia,region_1_Okanagan Valley,region_2_nan,Bordeaux-style Red Blend,Mission Hill
+395,Spain,Albariño de Fefiñanes,points_90,price_26.0,Galicia,region_1_Rías Baixas,region_2_nan,Albariño,Palacio de Fefiñanes
+396,France,Terre de Maimbray,points_90,price_nan,Loire Valley,region_1_Sancerre,region_2_nan,Pinot Noir,Pascal & Nicolas Reverdy
+397,Italy,Villa al Cortile Riserva,points_90,price_60.0,Tuscany,region_1_Brunello di Montalcino,region_2_nan,Sangiovese,Piccini
+398,Italy,Riserva,points_90,price_75.0,Tuscany,region_1_Brunello di Montalcino,region_2_nan,Sangiovese,Pietranera
+399,Moldova,Alb de Purcari,points_90,price_32.0,Moldova,region_1_nan,region_2_nan,White Blend,Purcari
+400,Italy,Riserva,points_90,price_95.0,Tuscany,region_1_Brunello di Montalcino,region_2_nan,Sangiovese,Renieri
+401,Italy,,points_90,price_60.0,Tuscany,region_1_Brunello di Montalcino,region_2_nan,Sangiovese,Podere Scopetone
+402,Italy,,points_90,price_70.0,Tuscany,region_1_Brunello di Montalcino,region_2_nan,Sangiovese,Sesta di Sopra
+403,US,Trois Fleurs,points_90,price_20.0,California,region_1_Santa Ynez Valley,region_2_Central Coast,White Blend,Carlson
+404,France,Cuvée Setier,points_90,price_27.0,Rhône Valley,region_1_Côtes du Rhône Villages,region_2_nan,Rhône-style Red Blend,Château Pégau
+405,France,Cuvée de Nalys,points_90,price_20.0,Rhône Valley,region_1_Châteauneuf-du-Pape,region_2_nan,Rhône-style Red Blend,Kirkland Signature
+406,US,Kate's + B's,points_90,price_75.0,California,region_1_Alexander Valley,region_2_Sonoma,Cabernet Sauvignon,Medlock Ames
+407,US,New Generation,points_90,price_28.0,California,region_1_Russian River Valley,region_2_Sonoma,Sauvignon Blanc,Passaggio
+408,US,,points_90,price_60.0,California,region_1_Napa Valley,region_2_Napa,Chardonnay,Patland
+409,US,Signpost,points_90,price_22.0,California,region_1_Sonoma Coast,region_2_Sonoma,Chardonnay,Trig Point
+410,Spain,Mirlo Blanco,points_90,price_49.0,Spain Other,region_1_Spain,region_2_nan,White Blend,Valquejigoso
+411,Hungary,Steiner,points_90,price_35.0,Sopron,region_1_nan,region_2_nan,Kekfrankos,Weninger
+412,Italy,,points_90,price_90.0,Tuscany,region_1_Brunello di Montalcino,region_2_nan,Sangiovese,Tenuta di Sesta
+413,US,,points_90,price_30.0,California,region_1_Russian River Valley,region_2_Sonoma,Chardonnay,Terlato
+414,US,,points_90,price_35.0,California,region_1_Alexander Valley,region_2_Sonoma,Cabernet Sauvignon,The Calling
+415,US,Elevation Annadel Gap Vineyard Estate,points_90,price_38.0,California,region_1_Sonoma Valley,region_2_Sonoma,Rhône-style Red Blend,Westwood
+416,US,,points_90,price_22.0,California,region_1_Lodi,region_2_Central Valley,Tempranillo,Fenestra
+417,Italy,Berardo Riserva,points_90,price_30.0,Tuscany,region_1_Chianti Classico,region_2_nan,Sangiovese,Castello di Bossi
+418,Italy,,points_90,price_32.0,Tuscany,region_1_Vino Nobile di Montepulciano,region_2_nan,Red Blend,Cecchi
+419,Italy,Riserva,points_90,price_35.0,Tuscany,region_1_Chianti Classico,region_2_nan,Sangiovese,Cafaggio
+420,US,,points_87,price_36.0,Washington,region_1_Columbia Valley (WA),region_2_Columbia Valley,Cabernet Sauvignon,Dussek Family Cellars
+421,US,Rapscallion,points_87,price_30.0,California,region_1_Paso Robles,region_2_Central Coast,Zinfandel,League of Rogues
+422,US,,points_87,price_20.0,New York,region_1_Finger Lakes,region_2_Finger Lakes,Cabernet Franc,Serenity
+423,US,Weinbau,points_87,price_32.0,Washington,region_1_Wahluke Slope,region_2_Columbia Valley,Grenache,Sol Stone
+424,Spain,Yá Cuvée 23 Brut Rosé,points_87,price_18.0,Catalonia,region_1_Cava,region_2_nan,Sparkling Blend,Sumarroca
+425,Spain,Crianza,points_87,price_27.0,Northern Spain,region_1_Ribera del Duero,region_2_nan,Tempranillo,Trus
+426,US,,points_87,price_20.0,Washington,region_1_Columbia Valley (WA),region_2_Columbia Valley,Sauvignon Blanc,Va Piano
+427,France,Cuvée Lucie,points_87,price_nan,Bordeaux,region_1_Médoc,region_2_nan,Bordeaux-style Red Blend,Les Hauts de Tousquiron
+428,US,Chandler Vineyard,points_87,price_30.0,California,region_1_Livermore Valley,region_2_Central Coast,Chardonnay,McGrail
+429,US,Freakshow,points_87,price_20.0,California,region_1_Lodi,region_2_Central Valley,Cabernet Sauvignon,Michael David
+430,US,Reserve,points_87,price_23.0,Idaho,region_1_nan,region_2_nan,Cabernet Sauvignon,3 Horse Ranch Vineyards
+431,US,Southern,points_87,price_22.0,Washington,region_1_Yakima Valley,region_2_Columbia Valley,Rhône-style White Blend,Cairdeas
+432,Italy,Vigna Poggio Ronconi,points_87,price_75.0,Tuscany,region_1_Brunello di Montalcino,region_2_nan,Sangiovese,Citille di Sopra
+433,Italy,Filo di Seta,points_87,price_98.0,Tuscany,region_1_Brunello di Montalcino,region_2_nan,Sangiovese,Castello Romitorio
+434,France,,points_87,price_nan,Bordeaux,region_1_Graves,region_2_nan,Bordeaux-style White Blend,Château de Portets
+435,US,,points_87,price_20.0,California,region_1_Paso Robles,region_2_Central Coast,Cabernet Sauvignon,Villa San Juliette
+436,US,Unoaked,points_87,price_22.0,Idaho,region_1_nan,region_2_nan,Chardonnay,Hat Ranch
+437,US,Chicken Dinner,points_87,price_16.0,Idaho,region_1_nan,region_2_nan,White Blend,Huston
+438,Italy,Pagliatura,points_87,price_28.0,Tuscany,region_1_Maremma Toscana,region_2_nan,Vermentino,Fattoria di Magliano
+439,Spain,Buleria Fino,points_87,price_25.0,Andalucia,region_1_Jerez,region_2_nan,Sherry,Bodegas Dios Baco S.L.
+440,Italy,Scirè,points_87,price_17.0,Tuscany,region_1_Bolgheri,region_2_nan,Red Blend,Ceralti
+441,US,Dry,points_87,price_17.0,Idaho,region_1_nan,region_2_nan,Riesling,Coiled
+442,Spain,Crianza,points_87,price_15.0,Northern Spain,region_1_Ribera del Duero,region_2_nan,Tempranillo,Condado de Oriza
+443,Spain,Premium,points_87,price_16.0,Andalucia,region_1_Manzanilla-Sanlúcar de Barrameda,region_2_nan,Sherry,Delgado Zuleta
+444,Spain,Roble 4 Meses en Barrica,points_87,price_15.0,Northern Spain,region_1_Ribera del Duero,region_2_nan,Tempranillo Blend,Señorío de Sotillo
+445,US,U50,points_87,price_38.0,Idaho,region_1_nan,region_2_nan,Tempranillo,Vale
+446,Spain,Brunus,points_87,price_28.0,Catalonia,region_1_Montsant,region_2_nan,Red Blend,Portal del Montsant
+447,Italy,Riserva,points_87,price_52.0,Tuscany,region_1_Brunello di Montalcino,region_2_nan,Sangiovese,La Collina dei Lecci
+448,Italy,Vigna Manapetra Riserva,points_87,price_58.0,Tuscany,region_1_Brunello di Montalcino,region_2_nan,Sangiovese,Fattoria La Lecciaia
+449,Italy,,points_87,price_60.0,Tuscany,region_1_Brunello di Montalcino,region_2_nan,Sangiovese,Ferrero
+450,Portugal,Superior,points_86,price_15.0,Douro,region_1_nan,region_2_nan,Rosé,Colinas do Douro
+451,Italy,Senza Solfiti Aggiunti,points_86,price_15.0,Veneto,region_1_Soave,region_2_nan,White Blend,Latium di Morini
+452,US,Cannon Block,points_86,price_26.0,California,region_1_Knights Valley,region_2_Sonoma,Chardonnay,Lawer
+453,US,,points_86,price_32.0,California,region_1_South Coast,region_2_South Coast,Syrah,Hawk Watch Winery
+454,Portugal,Conde Vimioso Colheita Seleccionada,points_86,price_10.0,Tejo,region_1_nan,region_2_nan,Portuguese Red,Falua
+455,Argentina,Alma Mora,points_86,price_10.0,Other,region_1_San Juan,region_2_nan,Sauvignon Blanc,Finca Las Moras
+456,US,,points_86,price_18.0,California,region_1_California,region_2_California Other,Moscato,The Naked Grape
+457,Portugal,Duas Quintas Branco,points_86,price_12.0,Douro,region_1_nan,region_2_nan,Portuguese White,Ramos-Pinto
+458,US,Estate Grown Cabernet,points_86,price_35.0,Washington,region_1_Red Mountain,region_2_Columbia Valley,Rosé,Obelisco Estate
+459,US,,points_86,price_34.0,California,region_1_Dry Creek Valley,region_2_Sonoma,Aglianico,Orsi Family Vineyards
+460,Argentina,,points_86,price_23.0,Mendoza Province,region_1_Mendoza,region_2_nan,Malbec,Bota Box
+461,South Africa,,points_86,price_20.0,Walker Bay,region_1_nan,region_2_nan,Sauvignon Blanc,Bouchard Finlayson
+462,US,Porter and Plot,points_86,price_31.0,California,region_1_Napa Valley,region_2_Napa,Cabernet Sauvignon,Winc
+463,US,,points_86,price_24.0,California,region_1_Paso Robles,region_2_Central Coast,Viognier,Cass
+464,US,,points_86,price_12.0,Washington,region_1_Columbia Valley (WA),region_2_Columbia Valley,Merlot,Castle Rock
+465,US,Reserve,points_86,price_18.0,California,region_1_Mendocino County,region_2_Mendocino/Lake Counties,Pinot Noir,Angeline
+466,France,,points_86,price_10.0,Southwest France,region_1_Côtes de Gascogne,region_2_nan,White Blend,Domaine de Lamothe
+467,Argentina,,points_86,price_15.0,Mendoza Province,region_1_Mendoza,region_2_nan,Malbec,Don Miguel Gascón
+468,US,Estate Vineyard,points_86,price_24.0,California,region_1_Paso Robles,region_2_Central Coast,Chardonnay,Eberle
+469,Argentina,,points_86,price_14.0,Mendoza Province,region_1_Mendoza,region_2_nan,Torrontés,Finca la Malena
+470,US,,points_86,price_14.0,California,region_1_Santa Ynez Valley,region_2_Central Coast,Sauvignon Blanc,Firestone
+471,Portugal,Portal da Vinha,points_86,price_15.0,Alentejano,region_1_nan,region_2_nan,Portuguese Red,Companhia das Quintas
+472,US,Osborn Ranch,points_86,price_38.0,California,region_1_Alexander Valley,region_2_Sonoma,Primitivo,DeLorimier
+473,Portugal,Cabriz,points_86,price_13.0,Dão,region_1_nan,region_2_nan,Touriga Nacional,Global Wines
+474,US,,points_86,price_12.0,California,region_1_California,region_2_California Other,Pinot Noir,Guenoc
+475,US,The Deep Six,points_86,price_32.0,California,region_1_South Coast,region_2_South Coast,Red Blend,Hawk Watch Winery
+476,France,,points_86,price_15.0,Southwest France,region_1_Bergerac Sec,region_2_nan,Semillon-Sauvignon Blanc,Lionel Osmin & Cie
+477,US,,points_86,price_28.0,California,region_1_Dry Creek Valley,region_2_Sonoma,Barbera,Orsi Family Vineyards
+478,Portugal,Oculto,points_86,price_nan,Tejo,region_1_nan,region_2_nan,Portuguese Red,Quinta do Arrobe
+479,Portugal,,points_86,price_30.0,Douro,region_1_nan,region_2_nan,Portuguese Rosé,Quinta Nova de Nossa Senhora do Carmo
+480,US,Charles Vineyard Clone O5,points_89,price_49.0,California,region_1_Anderson Valley,region_2_Mendocino/Lake Counties,Pinot Noir,Foursight
+481,Greece,,points_89,price_17.0,Nemea,region_1_nan,region_2_nan,Agiorgitiko,Boutari
+482,France,Bastide de Beauvert,points_89,price_11.0,Rhône Valley,region_1_Côtes du Rhône,region_2_nan,Grenache-Syrah,Les Vignobles Foncalieu
+483,Italy,Montesodi,points_89,price_43.0,Tuscany,region_1_Toscana,region_2_nan,Sangiovese,Marchesi de' Frescobaldi
+484,France,Les Gravels,points_89,price_19.0,Southwest France,region_1_Gaillac,region_2_nan,Red Blend,Domaine Rotier
+485,France,Les Gravels,points_89,price_28.0,Southwest France,region_1_Gaillac,region_2_nan,White Blend,Domaine Rotier
+486,Germany,Wehlener Sonnenuhr Kabinett,points_89,price_26.0,Mosel,region_1_nan,region_2_nan,Riesling,Dr. Pauly Bergweiler
+487,Italy,Cuvée du Prince Metodo Classico,points_89,price_nan,Italy Other,region_1_Vino Spumante,region_2_nan,Prié Blanc,Cave du Vin Blanc de Morgex et de la Salle
+488,US,,points_89,price_35.0,Oregon,region_1_Willamette Valley,region_2_Willamette Valley,Chardonnay,Aubichon Cellars
+489,US,Cheval Rouge Reserve,points_89,price_30.0,California,region_1_Carmel Valley,region_2_Central Coast,Bordeaux-style Red Blend,Boëté
+490,Italy,Coniale,points_89,price_55.0,Tuscany,region_1_Toscana,region_2_nan,Cabernet Sauvignon,Castellare di Castellina
+491,France,La Guillotte,points_89,price_nan,Southwest France,region_1_Fronton,region_2_nan,Negrette,Château Bouissel
+492,US,Nicholas Estate Reserve,points_89,price_46.0,Oregon,region_1_Chehalem Mountains,region_2_Willamette Valley,Pinot Noir,Anam Cara
+493,US,,points_89,price_50.0,Oregon,region_1_Willamette Valley,region_2_Willamette Valley,Pinot Noir,Carden
+494,US,Fourplay,points_89,price_43.0,California,region_1_Santa Ynez Valley,region_2_Central Coast,Red Blend,Carhartt Vineyard
+495,Portugal,,points_89,price_45.0,Duriense,region_1_nan,region_2_nan,Syrah,Quinta da Romaneira
+496,US,Thompson Vineyard,points_89,price_39.0,California,region_1_Santa Barbara County,region_2_Central Coast,Syrah,Rideau
+497,Italy,Daniello,points_89,price_30.0,Tuscany,region_1_Toscana,region_2_nan,Red Blend,Tenuta di Trecciano
+498,Italy,Il Tarabuso,points_89,price_45.0,Tuscany,region_1_Toscana,region_2_nan,Cabernet Sauvignon,Terre del Marchesato
+499,Spain,,points_89,price_23.0,Catalonia,region_1_Priorat,region_2_nan,Red Blend,Vega Escal
+500,France,Belleruche,points_89,price_15.0,Rhône Valley,region_1_Côtes du Rhône,region_2_nan,Grenache-Syrah,M. Chapoutier
+501,US,Paderewski Vineyard,points_89,price_65.0,California,region_1_Paso Robles,region_2_Central Coast,Zinfandel,Epoch Estate Wines
+502,Chile,Fina Reserva Ensamblaje Cabernet Sauvignon-Malbec-Syrah,points_89,price_19.0,Colchagua Valley,region_1_nan,region_2_nan,Red Blend,Estampa
+503,US,,points_89,price_35.0,Oregon,region_1_Rogue Valley,region_2_Southern Oregon,Syrah,Ledger David
+504,US,Martinelli,points_89,price_60.0,California,region_1_Paso Robles,region_2_Central Coast,Zinfandel,Lone Madrone
+505,US,Momtazi Vineyard,points_89,price_44.0,Oregon,region_1_McMinnville,region_2_Willamette Valley,Pinot Noir,Kelley Fox
+506,Spain,Val do Salnés,points_89,price_25.0,Galicia,region_1_Rías Baixas,region_2_nan,Albariño,Mar de Frades
+507,Italy,Carmione,points_89,price_30.0,Tuscany,region_1_Toscana,region_2_nan,Red Blend,Pratesi
+508,Spain,,points_89,price_12.0,Northern Spain,region_1_Ribera del Duero,region_2_nan,Tempranillo,Maitea
+509,Spain,Brut,points_89,price_18.0,Catalonia,region_1_Cava,region_2_nan,Sparkling Blend,Castellroig
+510,US,Dutton Ranch Mill Station Vineyard,points_92,price_30.0,California,region_1_Green Valley,region_2_Sonoma,Chardonnay,Martin Ray
+511,France,Brandluft Vieilles Vignes,points_92,price_nan,Alsace,region_1_Alsace,region_2_nan,Riesling,Boeckel
+512,Portugal,Vinhas Velhas Grande Reserva,points_92,price_23.0,Douro,region_1_nan,region_2_nan,Portuguese Red,Castello d'Alba
+513,US,Black Chicken,points_92,price_45.0,California,region_1_Napa Valley,region_2_Napa,Zinfandel,Robert Biale
+514,US,Cambium,points_92,price_125.0,California,region_1_Napa Valley,region_2_Napa,Bordeaux-style Red Blend,Sequoia Grove
+515,US,,points_92,price_98.0,California,region_1_Atlas Peak,region_2_Napa,Cabernet Sauvignon,VinRoc
+516,US,Fergalicious,points_92,price_40.0,California,region_1_Santa Ynez Valley,region_2_Central Coast,Red Blend,Ferguson Crest
+517,Canada,Cave Spring Vineyard Estate Bottled VQA,points_92,price_17.0,Ontario,region_1_Beamsville Bench,region_2_nan,Riesling,Cave Spring
+518,US,Loner W11-B,points_92,price_60.0,California,region_1_Santa Maria Valley,region_2_Central Coast,Chardonnay,Sanguis
+519,Portugal,,points_92,price_70.0,Douro,region_1_nan,region_2_nan,Portuguese Red,Quinta da Romaneira
+520,US,Hyde Vineyard,points_92,price_68.0,California,region_1_Carneros,region_2_Napa-Sonoma,Chardonnay,Ram's Gate
+521,Portugal,Vinha Pan,points_92,price_40.0,Beiras,region_1_nan,region_2_nan,Baga,Luis Pato
+522,US,Conner Lee,points_92,price_32.0,Washington,region_1_Columbia Valley (WA),region_2_Columbia Valley,Chardonnay,Array
+523,US,White Hawk Vineyard,points_92,price_45.0,California,region_1_Santa Barbara County,region_2_Central Coast,Syrah,Vie Winery
+524,US,Celilo Vineyard,points_92,price_66.0,Washington,region_1_Columbia Gorge (WA),region_2_Washington Other,Chardonnay,Woodward Canyon
+525,France,Bruderbach Clos des Frères,points_92,price_29.0,Alsace,region_1_Alsace,region_2_nan,Riesling,Domaine Loew
+526,France,Jubiléé,points_92,price_63.0,Alsace,region_1_Alsace,region_2_nan,Riesling,Hugel
+527,US,Melville Vineyard,points_92,price_32.0,California,region_1_Sta. Rita Hills,region_2_Central Coast,Chardonnay,Lafond
+528,US,Quail Hill Vineyard,points_92,price_55.0,California,region_1_Russian River Valley,region_2_Sonoma,Chardonnay,Lynmar
+529,Hungary,,points_92,price_16.0,Tokaji,region_1_nan,region_2_nan,Furmint,Royal Tokaji
+530,Italy,Canova,points_92,price_45.0,Piedmont,region_1_Barbaresco,region_2_nan,Nebbiolo,Ressia
+531,US,Kristen's Cuvee,points_92,price_20.0,California,region_1_California,region_2_California Other,Viognier,Rock Wall
+532,Italy,Sottocastello di Novello Riserva,points_92,price_50.0,Piedmont,region_1_Barolo,region_2_nan,Nebbiolo,Piazzo Armando
+533,France,,points_92,price_18.0,Bordeaux,region_1_Blaye Côtes de Bordeaux,region_2_nan,Bordeaux-style Red Blend,Château Marsau
+534,Portugal,Vale de Mata,points_92,price_23.0,Lisboa,region_1_nan,region_2_nan,Portuguese Red,Herdade do Rocim
+535,France,Mandelberg Grand Cru,points_92,price_nan,Alsace,region_1_Alsace,region_2_nan,Riesling,Jean Becker
+536,US,Nielson Vineyard,points_92,price_32.0,California,region_1_Santa Maria Valley,region_2_Central Coast,Chardonnay,Byron
+537,Chile,Edición Limitada B,points_92,price_30.0,Colchagua Valley,region_1_nan,region_2_nan,Bordeaux-style Red Blend,Caliterra
+538,US,Collaboration Series,points_92,price_35.0,Washington,region_1_Red Mountain,region_2_Columbia Valley,Viognier,Force Majeure
+539,US,Fort Ross Vineyard,points_92,price_44.0,California,region_1_Fort Ross-Seaview,region_2_Sonoma,Chardonnay,Fort Ross
+540,US,Monarch Mine Vineyards,points_90,price_24.0,California,region_1_Sierra Foothills,region_2_Sierra Foothills,Cabernet Franc,Easton
+541,US,,points_90,price_20.0,California,region_1_Amador County,region_2_Sierra Foothills,Zinfandel,Easton
+542,Germany,Feinherb,points_90,price_22.0,Mosel,region_1_nan,region_2_nan,Riesling,Kirsten
+543,France,Les Marconnets Premier Cru,points_90,price_50.0,Burgundy,region_1_Beaune,region_2_nan,Pinot Noir,Labouré-Roi
+544,France,,points_90,price_45.0,Burgundy,region_1_Morey-Saint-Denis,region_2_nan,Pinot Noir,Labouré-Roi
+545,US,Estate Vineyards,points_90,price_23.0,California,region_1_Central Coast,region_2_Central Coast,Pinot Noir,MacMurray Ranch
+546,US,Sundawg Ridge Vineyard,points_90,price_49.0,California,region_1_Green Valley,region_2_Sonoma,Pinot Noir,MacPhail
+547,Germany,Richter Estate,points_90,price_17.0,Mosel,region_1_nan,region_2_nan,Riesling,Max Ferd. Richter
+548,US,,points_90,price_35.0,California,region_1_Lodi,region_2_Central Valley,Carignane,McCay Cellars
+549,Italy,Laluci,points_90,price_nan,Sicily & Sardinia,region_1_Sicilia,region_2_nan,White Blend,Baglio del Cristo di Campobello
+550,France,Bastion Premier Cru,points_90,price_59.0,Burgundy,region_1_Beaune,region_2_nan,Chardonnay,Chanson Père et Fils
+551,France,Rosenberg,points_90,price_24.0,Alsace,region_1_Alsace,region_2_nan,Sylvaner,Domaine Barmès-Buecher
+552,France,Clos de Jeu,points_90,price_nan,Burgundy,region_1_Marsannay,region_2_nan,Pinot Noir,Domaine Collotte
+553,France,L'Aplomb,points_90,price_20.0,Alsace,region_1_Alsace,region_2_nan,White Blend,Domaine Rieflé-Landmann
+554,France,Réserve,points_90,price_20.0,Alsace,region_1_Alsace,region_2_nan,Pinot Blanc,Domaine Weinbach
+555,US,,points_90,price_18.0,Oregon,region_1_Willamette Valley,region_2_Willamette Valley,Pinot Gris,Elizabeth Chambers
+556,Italy,Siccagno,points_90,price_nan,Sicily & Sardinia,region_1_Terre Siciliane,region_2_nan,Nero d'Avola,Occhipinti
+557,US,Montecillo Vineyard,points_90,price_42.0,California,region_1_Sonoma Valley,region_2_Sonoma,Zinfandel,Ordaz Family Wines
+558,Italy,Bianco Dry,points_90,price_22.0,Sicily & Sardinia,region_1_Noto,region_2_nan,Moscato,Planeta
+559,Greece,,points_90,price_20.0,Santorini,region_1_nan,region_2_nan,Assyrtiko,Santo Wines
+560,US,Guadalupe Vineyard,points_90,price_48.0,Oregon,region_1_Dundee Hills,region_2_Willamette Valley,Pinot Noir,Soléna
+561,US,,points_90,price_30.0,California,region_1_Napa Valley,region_2_Napa,Chardonnay,Stags' Leap Winery
+562,Italy,Belsito,points_90,price_nan,Sicily & Sardinia,region_1_Vittoria,region_2_nan,Frappato,Terre di Giurfo
+563,US,,points_90,price_40.0,California,region_1_Red Hills Lake County,region_2_Mendocino/Lake Counties,Cabernet Sauvignon,Boatique
+564,Spain,Fincas de la Villa Reserva,points_90,price_20.0,Northern Spain,region_1_Rioja,region_2_nan,Tempranillo,Bodegas Muriel
+565,Spain,Crianza,points_90,price_17.0,Northern Spain,region_1_Rioja,region_2_nan,Tempranillo Blend,Burgo Viejo
+566,US,Made with Organically Grown Grapes,points_90,price_22.0,California,region_1_Sierra Foothills,region_2_Sierra Foothills,Merlot,Chacewater
+567,Germany,Bernkasteler Badstube Kabinett,points_90,price_31.0,Mosel,region_1_nan,region_2_nan,Riesling,Dr. H. Thanisch (Erben Thanisch)
+568,US,,points_90,price_15.0,California,region_1_California,region_2_California Other,Cabernet Sauvignon,Hahn
+569,US,,points_90,price_15.0,California,region_1_North Coast,region_2_North Coast,Cabernet Sauvignon,Lyeth
+570,US,Sunny View,points_94,price_62.0,California,region_1_Russian River Valley,region_2_Sonoma,Pinot Noir,The Calling
+571,US,Wichmann Dundee Estate,points_94,price_49.0,Oregon,region_1_Dundee Hills,region_2_Willamette Valley,Pinot Noir,Trisaetum
+572,France,Château Bouscassé,points_94,price_25.0,Southwest France,region_1_Madiran,region_2_nan,Red Blend,Vignobles Brumont
+573,US,Reserve,points_94,price_95.0,California,region_1_Rutherford,region_2_Napa,Cabernet Sauvignon,Frank Family
+574,US,Haynes Old Block,points_94,price_55.0,California,region_1_Coombsville,region_2_Napa,Chardonnay,Ancien
+575,US,,points_94,price_48.0,California,region_1_Sta. Rita Hills,region_2_Central Coast,Chardonnay,Barden
+576,Italy,,points_94,price_35.0,Northeastern Italy,region_1_Collio,region_2_nan,Friulano,Borgo del Tiglio
+577,France,Dou Barringuet,points_94,price_40.0,Southwest France,region_1_Madiran,region_2_nan,Tannat-Cabernet,Château de Gayon
+578,US,Cuvée Sandre,points_94,price_68.0,California,region_1_Sta. Rita Hills,region_2_Central Coast,Pinot Noir,Demetria
+579,US,Two Barns Vineyard,points_94,price_90.0,Oregon,region_1_Dundee Hills,region_2_Willamette Valley,Pinot Noir,Domaine Serene
+580,France,Seigneur de Grézette,points_93,price_25.0,Southwest France,region_1_Cahors,region_2_nan,Malbec-Merlot,Château Lagrézette
+581,US,Rogers Creek,points_93,price_60.0,California,region_1_Sonoma Coast,region_2_Sonoma,Pinot Noir,Cherry Pie
+582,Austria,,points_93,price_21.0,Thermenregion,region_1_nan,region_2_nan,St. Laurent,Johanneshof Reinisch
+583,US,,points_93,price_125.0,Washington,region_1_Washington,region_2_Washington Other,Bordeaux-style Red Blend,21 Grams
+584,US,Oliver's Vineyard,points_93,price_85.0,California,region_1_Alexander Valley,region_2_Sonoma,Cabernet Sauvignon,Aperture
+585,US,Ocean's Ghost Babcock Vineyard,points_93,price_60.0,California,region_1_Sta. Rita Hills,region_2_Central Coast,Pinot Noir,Babcock
+586,Spain,Reserva Edición Especial Sergio Hernández,points_93,price_64.0,Northern Spain,region_1_Ribera del Duero,region_2_nan,Tempranillo,Lleiroso
+587,Austria,,points_93,price_19.0,Burgenland,region_1_nan,region_2_nan,Blauburgunder,Meinklang
+588,Austria,,points_93,price_25.0,Carnuntum,region_1_nan,region_2_nan,Blaufränkisch,Muhr-Van der Niepoort
+589,US,Bien Nacido Vineyard,points_93,price_55.0,California,region_1_Santa Maria Valley,region_2_Central Coast,Syrah,Nicora
+590,US,,points_93,price_58.0,California,region_1_Russian River Valley,region_2_Sonoma,Chardonnay,Parallel
+591,US,Medici Vineyard,points_93,price_48.0,Oregon,region_1_Chehalem Mountains,region_2_Willamette Valley,Pinot Noir,Patricia Green Cellars
+592,US,Story Vineyard,points_93,price_40.0,California,region_1_Amador County,region_2_Sierra Foothills,Zinfandel,Renwood
+593,US,Santa Catalina Island Vineyards,points_93,price_60.0,California,region_1_California,region_2_California Other,Chardonnay,Rusack
+594,US,Hughes,points_93,price_120.0,California,region_1_Howell Mountain,region_2_Napa,Cabernet Sauvignon,Sbragia
+595,Austria,The Butcher,points_93,price_nan,Burgenland,region_1_nan,region_2_nan,Pinot Noir,Schwarz Wein
+596,US,A Ken Forrester Wine Farrow Ranch,points_93,price_100.0,California,region_1_Alexander Valley,region_2_Sonoma,Cabernet Sauvignon,The Bridge
+597,US,Scottsdale Vineyard,points_93,price_34.0,California,region_1_Lodi,region_2_Central Valley,Zinfandel,Harney Lane
+598,Spain,Reserva,points_93,price_91.0,Northern Spain,region_1_Ribera del Duero,region_2_nan,Red Blend,Pago de Carraovejas
+599,France,,points_93,price_36.0,Provence,region_1_Bandol,region_2_nan,Provence red blend,Domaine de la Bégude
+600,US,Hendry Vineyard,points_91,price_40.0,California,region_1_Napa Valley,region_2_Napa,Zinfandel,Rock Wall
+601,US,,points_91,price_20.0,Oregon,region_1_Dundee Hills,region_2_Willamette Valley,Chardonnay,Thistle
+602,US,,points_91,price_55.0,California,region_1_Napa Valley,region_2_Napa,Cabernet Sauvignon,Vitesse
+603,Portugal,Lua Cheia em Vinhas Velhas Reserva,points_91,price_19.0,Douro,region_1_nan,region_2_nan,Portuguese White,Wines & Winemakers
+604,Italy,Punggl,points_91,price_26.0,Northeastern Italy,region_1_Alto Adige,region_2_nan,Pinot Grigio,Nals Margreid
+605,US,Bald Mountain Vineyard,points_91,price_45.0,California,region_1_Ben Lomond Mountain,region_2_Central Coast,Pinot Noir,Beauregard
+606,Germany,Hochheimer Domdechaney Trocken,points_91,price_36.0,Rheingau,region_1_nan,region_2_nan,Riesling,Domdechant Werner
+607,Germany,Ayler Kupp Kabinett,points_91,price_23.0,Mosel,region_1_nan,region_2_nan,Riesling,Bischöfliche Weingüter Trier
+608,Germany,Medium Dry Kabinett,points_91,price_25.0,Rheingau,region_1_nan,region_2_nan,Riesling,Schloss Vollrads
+609,Germany,Löhrer Berg Spätlese,points_91,price_21.0,Nahe,region_1_nan,region_2_nan,Scheurebe,Bürgermeister Willi Schweinhardt
+610,Germany,Ürziger Würzgarten Spätlese,points_91,price_28.0,Mosel,region_1_nan,region_2_nan,Riesling,C.H. Berres
+611,Italy,Manna,points_91,price_41.0,Northeastern Italy,region_1_Vigneti delle Dolomiti,region_2_nan,White Blend,Franz Haas
+612,US,Oregon Hawks View Vineyard,points_91,price_26.0,Oregon,region_1_Chehalem Mountains,region_2_Willamette Valley,Pinot Gris,Hawks View
+613,Portugal,Olho de Mocho Reserva,points_91,price_nan,Alentejano,region_1_nan,region_2_nan,Portuguese Red,Herdade do Rocim
+614,US,Estate Grown,points_91,price_28.0,California,region_1_Russian River Valley,region_2_Sonoma,Chardonnay,J Vineyards & Winery
+615,France,,points_91,price_nan,Burgundy,region_1_Corton,region_2_nan,Pinot Noir,L. Tramier & Fils
+616,US,Lorenzo Vineyard,points_91,price_38.0,California,region_1_Russian River Valley,region_2_Sonoma,Chardonnay,La Follette
+617,US,Jillian's Blend,points_91,price_44.0,California,region_1_Napa Valley,region_2_Napa,Red Blend,Laird
+618,US,Rodgers Creek Vineyard,points_91,price_45.0,California,region_1_Sonoma Coast,region_2_Sonoma,Pinot Noir,Les Voleurs
+619,Germany,Bernkasteler Badstube Spätlese,points_91,price_25.0,Mosel,region_1_nan,region_2_nan,Riesling,Dr. Heidemanns-Bergweiler
+620,Germany,Graacher Himmelreich Auslese,points_91,price_38.0,Mosel,region_1_nan,region_2_nan,Riesling,Dr. Heidemanns-Bergweiler
+621,Germany,Bernkasteler Lay Kabinett,points_91,price_22.0,Mosel,region_1_nan,region_2_nan,Riesling,Dr. Loosen
+622,Germany,Bernkasteler alte Badstube am Doctorberg Kabinett,points_91,price_26.0,Mosel,region_1_nan,region_2_nan,Riesling,Dr. Pauly Bergweiler
+623,Germany,Scharzhofberger Kabinett,points_91,price_23.0,Mosel,region_1_nan,region_2_nan,Riesling,Bischöfliche Weingüter Trier
+624,Germany,Trittenheimer Apotheke Auslese,points_91,price_23.0,Mosel,region_1_nan,region_2_nan,Riesling,Bollig-Lehnert
+625,US,Griva Vineyard Late Harvest,points_91,price_50.0,California,region_1_Arroyo Seco,region_2_Central Coast,Sauvignon Blanc,Bernardus
+626,Italy,Lahn,points_91,price_21.0,Northeastern Italy,region_1_Alto Adige,region_2_nan,Sauvignon,Cantina Produttori San Michele Appiano
+627,France,,points_91,price_25.0,Bordeaux,region_1_Haut-Médoc,region_2_nan,Bordeaux-style Red Blend,Château Devise d'Ardilley
+628,Portugal,Cabriz Reserva,points_91,price_16.0,Dão,region_1_nan,region_2_nan,Portuguese Red,Dão Sul
+629,France,Les Monts de Boncourt,points_91,price_60.0,Burgundy,region_1_Côtes de Nuits Villages,region_2_nan,Chardonnay,Domaine de Bellene
+630,US,,points_90,price_38.0,California,region_1_Napa Valley,region_2_Napa,Cabernet Sauvignon,Louis M. Martini
+631,Australia,The Dagger,points_90,price_20.0,South Australia,region_1_Adelaide Hills,region_2_nan,Pinot Noir,Riposte
+632,Italy,Cannubi Boschis,points_90,price_75.0,Piedmont,region_1_Barolo,region_2_nan,Nebbiolo,Virna Borgogno
+633,Portugal,Casa Velha Colheita Seleccionada,points_90,price_33.0,Douro,region_1_nan,region_2_nan,Portuguese Red,Adega de Favaios
+634,Italy,del Comune di Serralunga d'Alba,points_90,price_75.0,Piedmont,region_1_Barolo,region_2_nan,Nebbiolo,Alessandro Rivetto
+635,US,Soul Shaker Cass Vineyard,points_90,price_64.0,California,region_1_Paso Robles,region_2_Central Coast,Bordeaux-style Red Blend,Ascension Cellars
+636,US,Estate Grown,points_90,price_18.0,California,region_1_Russian River Valley,region_2_Sonoma,Gewürztraminer,Balletto
+637,Italy,Sottocastello di Novello,points_90,price_75.0,Piedmont,region_1_Barolo,region_2_nan,Nebbiolo,Ca' Viola
+638,Italy,,points_90,price_30.0,Piedmont,region_1_Barolo,region_2_nan,Nebbiolo,Cantina del Nebbiolo
+639,Italy,Bricco Rocca,points_90,price_42.0,Piedmont,region_1_Barolo,region_2_nan,Nebbiolo,Cascina Ballarin
+640,Italy,Sil Nizza,points_90,price_18.0,Piedmont,region_1_Barbera d'Asti Superiore,region_2_nan,Barbera,Cascina Liuzzi
+641,Spain,Sin Palabras Castrovaldés,points_90,price_20.0,Galicia,region_1_Rías Baixas,region_2_nan,Albariño,Castro Brey
+642,US,Estate Grown,points_90,price_40.0,California,region_1_Edna Valley,region_2_Central Coast,Pinot Noir,Chamisal Vineyards
+643,France,Prieuré de Cénac,points_90,price_25.0,Southwest France,region_1_Cahors,region_2_nan,Malbec,Château Saint-Didier-Parnac
+644,Portugal,Contraste Branco,points_90,price_19.0,Douro,region_1_nan,region_2_nan,Portuguese White,Conceito Vinhos
+645,US,Estate,points_90,price_18.0,Oregon,region_1_Willamette Valley,region_2_Willamette Valley,Gewürztraminer,David Hill
+646,US,Cuvée Luke Saralee's Vineyard,points_90,price_30.0,California,region_1_Russian River Valley,region_2_Sonoma,Rhône-style White Blend,Davis Family
+647,France,La Croix d'Argon,points_90,price_13.0,Southwest France,region_1_Côtes de Gascogne,region_2_nan,Red Blend,Domaine d'Arton
+648,France,Vaillons Premier Cru,points_90,price_45.0,Burgundy,region_1_Chablis,region_2_nan,Chardonnay,Domaine Gérard Duplessis
+649,Germany,Graacher Himmelreich Spätlese,points_90,price_30.0,Mosel,region_1_nan,region_2_nan,Riesling,Dr. Heidemanns-Bergweiler
+650,US,Laki's Vineyard Estate,points_90,price_111.0,California,region_1_Oak Knoll District,region_2_Napa,Cabernet Sauvignon,Eleven Eleven
+651,Italy,Bricco dei Merli,points_90,price_35.0,Piedmont,region_1_Barbera d'Alba,region_2_nan,Barbera,Elvio Cogno
+652,US,Estate,points_90,price_32.0,Oregon,region_1_Rogue Valley,region_2_Southern Oregon,Tempranillo,Folin Cellars
+653,Italy,Marasco,points_90,price_88.0,Piedmont,region_1_Barolo,region_2_nan,Nebbiolo,Franco M. Martinetti
+654,US,Backbone,points_90,price_57.0,Oregon,region_1_Oregon,region_2_Oregon Other,Pinot Noir,King Estate
+655,US,Campbell McKinney Vineyard,points_90,price_34.0,California,region_1_Russian River Valley,region_2_Sonoma,Grenache,Kobler
+656,US,Truffle Hill,points_90,price_24.0,Oregon,region_1_Willamette Valley,region_2_Willamette Valley,Chardonnay,Left Coast Cellars
+657,Italy,Fraschin,points_90,price_45.0,Piedmont,region_1_Barolo,region_2_nan,Nebbiolo,Manzone Fratelli
+658,Italy,Pressenda,points_90,price_74.0,Piedmont,region_1_Barolo,region_2_nan,Nebbiolo,Marziano Abbona
+659,Italy,Roche d'Ampsej,points_90,price_nan,Piedmont,region_1_Roero,region_2_nan,Nebbiolo,Matteo Correggia
+660,Australia,Applejack Vineyard,points_88,price_42.0,Victoria,region_1_Yarra Valley,region_2_nan,Pinot Noir,Giant Steps
+661,France,,points_88,price_27.0,Loire Valley,region_1_Sancerre,region_2_nan,Sauvignon Blanc,Domaine Gérard Fiou
+662,Argentina,Grande Reserve,points_88,price_25.0,Mendoza Province,region_1_Tupungato,region_2_nan,Malbec,Domaine Jean Bousquet
+663,France,Le Pierrier,points_88,price_35.0,Loire Valley,region_1_Sancerre,region_2_nan,Sauvignon Blanc,Domaine Thomas & Fils
+664,US,The Mariner,points_88,price_45.0,California,region_1_Dry Creek Valley,region_2_Sonoma,Meritage,Dry Creek Vineyard
+665,US,,points_88,price_30.0,California,region_1_Santa Barbara County,region_2_Central Coast,Grenache,Epiphany
+666,France,,points_88,price_26.0,Bordeaux,region_1_Côtes de Bourg,region_2_nan,Bordeaux-style Red Blend,Etienne de Tauriac
+667,US,,points_88,price_39.0,California,region_1_Russian River Valley,region_2_Sonoma,Chardonnay,Fog Crest
+668,France,Cuvée Silice,points_88,price_25.0,Loire Valley,region_1_Pouilly-Fumé,region_2_nan,Sauvignon Blanc,Francis Blanchet
+669,Italy,Mondoca di Bussia,points_88,price_80.0,Piedmont,region_1_Barolo,region_2_nan,Nebbiolo,Germano Angelo
+670,US,,points_88,price_55.0,California,region_1_Anderson Valley,region_2_Mendocino/Lake Counties,Pinot Noir,Goldeneye
+671,US,Estate Vineyard,points_88,price_22.0,California,region_1_Sonoma Coast,region_2_Sonoma,Gewürztraminer,Gundlach Bundschu
+672,France,Cuvée C.M.,points_88,price_28.0,Loire Valley,region_1_Sancerre,region_2_nan,Sauvignon Blanc,Jean-Max Roger
+673,US,Estate,points_88,price_25.0,California,region_1_Arroyo Grande Valley,region_2_Central Coast,Pinot Noir,Laetitia
+674,US,Diversité,points_88,price_48.0,Oregon,region_1_Willamette Valley,region_2_Willamette Valley,Pinot Noir,Le Cadeau
+675,US,Estate,points_88,price_19.0,California,region_1_Santa Barbara County,region_2_Central Coast,Viognier,Lucas & Lewellen
+676,Croatia,Riserva R5,points_88,price_19.0,North Dalmatia,region_1_nan,region_2_nan,White Blend,Bibich
+677,Italy,Villero,points_88,price_77.0,Piedmont,region_1_Barolo,region_2_nan,Nebbiolo,Boroli
+678,US,Stainless,points_88,price_18.0,California,region_1_Central Coast,region_2_Central Coast,Chardonnay,Chamisal Vineyards
+679,France,,points_88,price_25.0,Bordeaux,region_1_Pessac-Léognan,region_2_nan,Bordeaux-style White Blend,Château de Cruzeau
+680,France,,points_88,price_nan,Bordeaux,region_1_Pessac-Léognan,region_2_nan,Bordeaux-style White Blend,Château Lafargue
+681,France,,points_88,price_nan,Bordeaux,region_1_Pessac-Léognan,region_2_nan,Bordeaux-style White Blend,Château le Sartre
+682,France,,points_88,price_18.0,Bordeaux,region_1_Bordeaux Blanc,region_2_nan,Bordeaux-style White Blend,Château Roc de Minvielle
+683,US,,points_88,price_18.0,California,region_1_Alexander Valley,region_2_Sonoma,Merlot,Chelsea Goldschmidt
+684,France,,points_88,price_nan,Bordeaux,region_1_Pessac-Léognan,region_2_nan,Bordeaux-style White Blend,Clos Marsalette
+685,US,Sarah Jane's Block Reserve,points_88,price_65.0,Oregon,region_1_Willamette Valley,region_2_Willamette Valley,Pinot Noir,Coeur de Terre
+686,US,Estate Grown,points_88,price_25.0,California,region_1_Carneros,region_2_Napa-Sonoma,Chardonnay,Cuvaison
+687,US,Spire,points_88,price_48.0,California,region_1_Carneros-Napa Valley,region_2_Napa,Pinot Noir,Cuvaison
+688,France,,points_88,price_20.0,Loire Valley,region_1_Menetou-Salon,region_2_nan,Pinot Noir,Domaine de l'Hermitage
+689,Spain,Made With Organic Grapes,points_88,price_11.0,Central Spain,region_1_Vino de la Tierra de Castilla,region_2_nan,Tempranillo,Venta Morales
+690,US,Estate Grown,points_90,price_55.0,California,region_1_Moon Mountain District Sonoma County,region_2_Sonoma,Cabernet Sauvignon,Korbin Kameron
+691,Spain,Leopardi Brut Nature Gran Reserva,points_90,price_35.0,Catalonia,region_1_Cava,region_2_nan,Sparkling Blend,Llopart
+692,Bulgaria,Elenovo Nova Zagora,points_90,price_26.0,Thracian Valley,region_1_nan,region_2_nan,Mavrud,Edoardo Miroglio
+693,US,Sangiacomo Green Acres Hill,points_90,price_46.0,California,region_1_Sonoma Coast,region_2_Sonoma,Chardonnay,Eric Kent
+694,US,Bien Nacido Vineyard,points_90,price_55.0,California,region_1_Santa Barbara County,region_2_Central Coast,Pinot Noir,Fess Parker
+695,US,,points_90,price_30.0,California,region_1_Sta. Rita Hills,region_2_Central Coast,Pinot Noir,Fess Parker
+696,US,,points_90,price_25.0,New York,region_1_Finger Lakes,region_2_Finger Lakes,Cabernet Franc,Hazlitt 1852 Vineyards
+697,US,Lust,points_90,price_27.0,New York,region_1_Finger Lakes,region_2_Finger Lakes,Pinot Noir,Inspire Moore
+698,US,En Hommage,points_90,price_28.0,Washington,region_1_Yakima Valley,region_2_Columbia Valley,Syrah,Kevin White
+699,Italy,,points_90,price_62.0,Tuscany,region_1_Brunello di Montalcino,region_2_nan,Sangiovese,La Magia
+700,US,,points_90,price_48.0,California,region_1_Sonoma Coast,region_2_Sonoma,Chardonnay,La Pitchoune
+701,Italy,,points_90,price_80.0,Tuscany,region_1_Brunello di Montalcino,region_2_nan,Sangiovese,Lazzeretti
+702,US,D,points_90,price_36.0,California,region_1_Happy Canyon of Santa Barbara,region_2_Central Coast,Sauvignon Blanc,Margerum
+703,US,1105,points_90,price_48.0,California,region_1_Paso Robles,region_2_Central Coast,Red Blend,MCV
+704,US,Olivet Lane,points_90,price_60.0,California,region_1_Russian River Valley,region_2_Sonoma,Chardonnay,Merry Edwards
+705,Canada,Reserve,points_90,price_24.0,British Columbia,region_1_Okanagan Valley,region_2_nan,Riesling,Mission Hill
+706,US,Estate Grown,points_90,price_42.0,California,region_1_Oak Knoll District,region_2_Napa,Cabernet Franc,Monticello Vineyards
+707,US,,points_90,price_45.0,California,region_1_Paso Robles,region_2_Central Coast,Sangiovese,Niner
+708,US,Nance's Vineyard,points_90,price_39.0,California,region_1_Alexander Valley,region_2_Sonoma,Zinfandel,Ousterhout
+709,US,Redwood Ranch,points_90,price_25.0,California,region_1_Alexander Valley,region_2_Sonoma,Sauvignon Blanc,Ousterhout
+710,US,Damn Straight,points_90,price_40.0,Washington,region_1_Columbia Valley (WA),region_2_Columbia Valley,Bordeaux-style Red Blend,Plumb Cellars
+711,Slovenia,Brutus,points_90,price_40.0,Goriska Brda,region_1_nan,region_2_nan,Ribolla Gialla,Principiano Ferdinando
+712,US,,points_90,price_40.0,California,region_1_Santa Clara Valley,region_2_Central Coast,Charbono,Sarah's Vineyard
+713,Italy,,points_90,price_60.0,Tuscany,region_1_Brunello di Montalcino,region_2_nan,Sangiovese,SassodiSole
+714,Canada,,points_90,price_19.0,British Columbia,region_1_Okanagan Valley,region_2_nan,Pinot Gris,Tinhorn Creek
+715,US,,points_90,price_85.0,California,region_1_Mount Veeder,region_2_Napa,Cabernet Sauvignon,V. Sattui
+716,Spain,Viña AB Amontillado Seco,points_90,price_26.0,Andalucia,region_1_Jerez,region_2_nan,Palomino,González Byass
+717,Italy,Riserva,points_90,price_25.0,Tuscany,region_1_Chianti Classico,region_2_nan,Red Blend,Il Brunone
+718,US,,points_90,price_15.0,California,region_1_Dunnigan Hills,region_2_Central Valley,Tempranillo,Matchbook
+719,France,,points_90,price_24.0,Rhône Valley,region_1_Tavel,region_2_nan,Rosé,Prieuré de Montézargues
+720,US,Harvest,points_86,price_18.0,California,region_1_California,region_2_California Other,Red Blend,The Naked Grape
+721,South Africa,Schaapenberg Vineyard Reserve,points_86,price_35.0,Stellenbosch,region_1_nan,region_2_nan,Sauvignon Blanc,Vergelegen
+722,Argentina,Brutal,points_86,price_26.0,Mendoza Province,region_1_Mendoza,region_2_nan,Torrontés,Via Revolucionaria
+723,Argentina,Familia Navarro Torrre Grand Gold Medal,points_86,price_39.0,Other,region_1_Argentina,region_2_nan,Malbec-Cabernet Sauvignon,Bodega Las Cañitas
+724,South Africa,Barrelman's Select,points_86,price_11.0,Western Cape,region_1_nan,region_2_nan,Sauvignon Blanc,Fat Barrel
+725,US,Saluté,points_85,price_15.0,California,region_1_Livermore Valley,region_2_Central Coast,Red Blend,Rubino Estates Winery
+726,France,Bélingard,points_85,price_9.0,Southwest France,region_1_Bergerac Rosé,region_2_nan,Rosé,Château Bélingard
+727,France,Les Petits Clément Merlot Duras,points_85,price_16.0,Southwest France,region_1_Côtes du Tarn,region_2_nan,Red Blend,Château Clément Termes
+728,US,,points_85,price_15.0,California,region_1_California,region_2_California Other,Cabernet Sauvignon,Jack's House
+729,France,,points_85,price_18.0,Burgundy,region_1_Coteaux Bourguignons,region_2_nan,Pinot Noir-Gamay,Joseph Drouhin
+730,Italy,,points_85,price_9.0,Northeastern Italy,region_1_Delle Venezie,region_2_nan,Pinot Nero,Famiglia Cielo
+731,Portugal,Oceanus Touriga Nacional-Cabernet Sauvignon,points_85,price_11.0,Tejo,region_1_nan,region_2_nan,Portuguese Red,Fiuza
+732,France,Pigmentum Malbec,points_85,price_12.0,Southwest France,region_1_Côtes du Lot,region_2_nan,Rosé,Georges Vigouroux
+733,France,Les Terrasses,points_85,price_14.0,Southwest France,region_1_Cahors,region_2_nan,Malbec,Rigal
+734,South Africa,,points_85,price_10.0,Western Cape,region_1_nan,region_2_nan,Sauvignon Blanc,Long Neck
+735,US,,points_85,price_12.0,California,region_1_California,region_2_California Other,Cabernet Sauvignon,Mirassou
+736,US,,points_85,price_18.0,California,region_1_California,region_2_California Other,Merlot,The Naked Grape
+737,Argentina,,points_85,price_14.0,Mendoza Province,region_1_Mendoza,region_2_nan,Malbec,The Seeker
+738,Italy,Monopolio,points_85,price_10.0,Veneto,region_1_Soave Classico,region_2_nan,Garganega,Cantina di Gambellara
+739,Argentina,Nuna Estate,points_85,price_13.0,Mendoza Province,region_1_Mendoza,region_2_nan,White Blend,Chakana
+740,Portugal,Encosta da Vinha,points_85,price_10.0,Dão,region_1_nan,region_2_nan,Portuguese Red,Boas Quintas
+741,South Africa,Crocodile's Lair Kaaimansgat,points_85,price_20.0,Overberg,region_1_nan,region_2_nan,Chardonnay,Bouchard Finlayson
+742,Argentina,Eggo Tinta de Tiza,points_85,price_30.0,Mendoza Province,region_1_Tupungato,region_2_nan,Bordeaux-style Red Blend,Zorzal
+743,Spain,Colección Vivanco Dulce de Invierno Late Harvest,points_85,price_50.0,Northern Spain,region_1_Rioja,region_2_nan,Red Blend,Vivanco
+744,South Africa,The Game Reserve,points_85,price_16.0,Robertson,region_1_nan,region_2_nan,Sauvignon Blanc,Graham Beck
+745,France,Bastide de Beauvert,points_85,price_11.0,Rhône Valley,region_1_Côtes du Rhône,region_2_nan,Rhône-style Red Blend,Les Vignobles Foncalieu
+746,Argentina,Cruzat Brut Rosé Méthodo Tradicional,points_85,price_15.0,Mendoza Province,region_1_Valle de Uco,region_2_nan,Sparkling Blend,Cruzat
+747,US,Cross Creek Vineyard,points_85,price_65.0,California,region_1_Moon Mountain District Sonoma County,region_2_Sonoma,Cabernet Sauvignon,Spann Vineyards
+748,Bulgaria,Veni Vidi Vici,points_85,price_9.0,Thracian Valley,region_1_nan,region_2_nan,Chardonnay,Vini
+749,Israel,Admon Vineyard,points_85,price_30.0,Galilee,region_1_nan,region_2_nan,Chardonnay,Carmel
+750,France,Château de Rouffiac Séduction,points_89,price_nan,Southwest France,region_1_Cahors,region_2_nan,Malbec,Château Bovila
+751,Spain,Herència del Padrí,points_89,price_26.0,Catalonia,region_1_Priorat,region_2_nan,Red Blend,Bernard Magrez
+752,US,,points_89,price_20.0,California,region_1_Yountville,region_2_Napa,Chardonnay,Hoopla
+753,US,La Presa Vineyard,points_89,price_25.0,California,region_1_Santa Ynez Valley,region_2_Central Coast,Riesling,Kaena
+754,US,Bien Nacido,points_89,price_36.0,California,region_1_Santa Maria Valley,region_2_Central Coast,Chardonnay,La Fenêtre
+755,France,La Demoiselle de Laballe,points_89,price_14.0,Southwest France,region_1_Côtes de Gascogne,region_2_nan,Gros Manseng,Laudet
+756,US,,points_89,price_36.0,California,region_1_Santa Ynez Valley,region_2_Central Coast,Tempranillo,Longoria
+757,Italy,Ad Astra,points_89,price_23.0,Tuscany,region_1_Toscana,region_2_nan,Red Blend,Nittardi
+758,US,,points_89,price_30.0,California,region_1_Paso Robles,region_2_Central Coast,Petit Verdot,Opaque
+759,Italy,Oliviero Toscani,points_89,price_28.0,Tuscany,region_1_Toscana,region_2_nan,Red Blend,OT
+760,Chile,,points_89,price_20.0,Maipo Valley,region_1_nan,region_2_nan,Cabernet Sauvignon,Primus
+761,US,The Truant,points_89,price_36.0,California,region_1_Sierra Foothills,region_2_Sierra Foothills,G-S-M,Prospect 772
+762,US,Reserve Rêve Estate,points_89,price_45.0,Oregon,region_1_Willamette Valley,region_2_Willamette Valley,Pinot Noir,Provincial Vineyards
+763,US,,points_89,price_20.0,Oregon,region_1_Willamette Valley,region_2_Willamette Valley,Pinot Gris,Raptor Ridge
+764,Chile,,points_89,price_20.0,Casablanca Valley,region_1_nan,region_2_nan,Pinot Noir,Ritual
+765,Italy,Cerviolo,points_89,price_45.0,Tuscany,region_1_Toscana,region_2_nan,Red Blend,San Fabiano Calcinaia
+766,Chile,1865 Single Vineyard,points_89,price_20.0,Cachapoal Valley,region_1_nan,region_2_nan,Syrah,San Pedro
+767,US,Grande Cuvée,points_89,price_28.0,Oregon,region_1_Willamette Valley,region_2_Willamette Valley,Pinot Noir,Soléna
+768,US,,points_89,price_42.0,California,region_1_Santa Ynez Valley,region_2_Central Coast,Syrah,Sunstone
+769,Italy,Scipio,points_89,price_110.0,Tuscany,region_1_Toscana,region_2_nan,Cabernet Franc,Tenuta Sette Cieli
+770,Chile,La Capilla Single Vineyard,points_89,price_25.0,Colchagua Valley,region_1_nan,region_2_nan,Cabernet Sauvignon,Viu Manent
+771,US,,points_89,price_14.0,Oregon,region_1_Oregon,region_2_Oregon Other,Riesling,A to Z
+772,US,Grenache,points_89,price_18.0,Oregon,region_1_Umpqua Valley,region_2_Southern Oregon,Rosé,Abacela
+773,US,Faith,points_89,price_39.0,California,region_1_California,region_2_California Other,Red Blend,Aver Family Vineyards
+774,Italy,I Sodi di San Niccolò,points_89,price_90.0,Tuscany,region_1_Toscana,region_2_nan,Red Blend,Castellare di Castellina
+775,Portugal,Alma Grande Reserva,points_89,price_18.0,Douro,region_1_nan,region_2_nan,Portuguese Red,Caves Velhas
+776,Portugal,D. Fuas Reserva,points_89,price_7.0,Terras do Dão,region_1_nan,region_2_nan,Portuguese Red,Caves Velhas
+777,Portugal,Magna Carta Reserva,points_89,price_17.0,Alentejano,region_1_nan,region_2_nan,Portuguese Red,Caves Velhas
+778,Chile,Justo,points_89,price_17.0,Leyda Valley,region_1_nan,region_2_nan,Sauvignon Blanc,Claro
+779,France,CSV,points_89,price_20.0,Southwest France,region_1_Côtes du Lot,region_2_nan,White Blend,Clos Troteligotte
+780,Italy,,points_87,price_50.0,Tuscany,region_1_Brunello di Montalcino,region_2_nan,Sangiovese,Corte dei Venti
+781,Italy,Tradizione,points_87,price_87.0,Tuscany,region_1_Brunello di Montalcino,region_2_nan,Sangiovese,Tenuta Vitanza
+782,US,Copeland Vineayard,points_87,price_28.0,Washington,region_1_Yakima Valley,region_2_Columbia Valley,Cabernet Sauvignon,Two Mountain
+783,Italy,Firma Riserva,points_87,price_nan,Tuscany,region_1_Brunello di Montalcino,region_2_nan,Sangiovese,Tenuta Vitanza
+784,US,Intrepide,points_87,price_36.0,Washington,region_1_Columbia Valley (WA),region_2_Columbia Valley,Bordeaux-style Red Blend,Ott & Murphy
+785,France,,points_87,price_nan,Bordeaux,region_1_Pessac-Léognan,region_2_nan,Bordeaux-style Red Blend,Château Gazin Rocquencourt
+786,France,,points_87,price_nan,Bordeaux,region_1_Graves,region_2_nan,Bordeaux-style White Blend,Château Haut Selve
+787,France,Les Hauts de Larrivet Haut-Brion,points_87,price_35.0,Bordeaux,region_1_Pessac-Léognan,region_2_nan,Bordeaux-style Red Blend,Château Larrivet Haut-Brion
+788,France,,points_87,price_nan,Bordeaux,region_1_Pessac-Léognan,region_2_nan,Bordeaux-style Red Blend,Château Luchey-Halde
+789,France,Dame de Coeur,points_87,price_30.0,Bordeaux,region_1_Bordeaux Supérieur,region_2_nan,Bordeaux-style Red Blend,Château Peyfaures
+790,US,Serres Ranch,points_87,price_28.0,California,region_1_Sonoma Valley,region_2_Sonoma,Bordeaux-style Red Blend,Highway 12
+791,Italy,Greppicante,points_87,price_20.0,Tuscany,region_1_Bolgheri,region_2_nan,Red Blend,I Greppi
+792,US,,points_87,price_18.0,California,region_1_Amador County,region_2_Sierra Foothills,Primitivo,Drytown
+793,US,Syzygy,points_87,price_32.0,California,region_1_Livermore Valley,region_2_Central Coast,Red Blend,Entropy Cellars
+794,US,Canoe Ridge Vineyard,points_87,price_28.0,Washington,region_1_Horse Heaven Hills,region_2_Columbia Valley,Merlot,Chateau Ste. Michelle
+795,France,,points_87,price_nan,Bordeaux,region_1_Médoc,region_2_nan,Bordeaux-style Red Blend,Château Taffard de Blaignan
+796,US,Cockburn Ranch Vineyard,points_87,price_26.0,Washington,region_1_Walla Walla Valley (WA),region_2_Columbia Valley,Syrah,College Cellars
+797,US,Estate,points_87,price_32.0,California,region_1_Calistoga,region_2_Napa,Sauvignon Blanc,Coquerel Family Wine Estates
+798,US,Bogle Vineyards,points_87,price_11.0,California,region_1_California,region_2_California Other,Cabernet Sauvignon,Bogle
+799,US,Reserve Nellie Mae,points_87,price_26.0,Washington,region_1_Columbia Valley (WA),region_2_Columbia Valley,Rhône-style White Blend,Cairdeas
+800,US,Lot 423,points_87,price_19.0,California,region_1_Napa Valley,region_2_Napa,Syrah,Cameron Hughes
+801,US,Amatino,points_87,price_22.0,Idaho,region_1_nan,region_2_nan,Red Blend,Fujishin
+802,US,Bona Vita,points_87,price_28.0,Washington,region_1_Columbia Valley (WA),region_2_Columbia Valley,Bordeaux-style Red Blend,Hamilton
+803,US,Buttner Vineyard,points_87,price_28.0,California,region_1_Livermore Valley,region_2_Central Coast,Pinot Blanc,Las Positas
+804,US,,points_87,price_20.0,California,region_1_Paso Robles,region_2_Central Coast,Zinfandel,Maddalena
+805,US,Cellar 1879 Blend,points_87,price_25.0,California,region_1_Napa Valley,region_2_Napa,Red Blend,Markham
+806,US,,points_87,price_16.0,New York,region_1_Finger Lakes,region_2_Finger Lakes,Chardonnay,Rooster Hill
+807,US,Estate,points_87,price_18.0,New York,region_1_Finger Lakes,region_2_Finger Lakes,Gewürztraminer,Rooster Hill
+808,US,Block 007 Estate Vineyard,points_87,price_25.0,California,region_1_Dry Creek Valley,region_2_Sonoma,Cabernet Sauvignon,Pedroncelli
+809,France,Mission St Vincent Réserve,points_87,price_10.0,Bordeaux,region_1_Bordeaux,region_2_nan,Bordeaux-style Red Blend,Producta Vignobles
+810,Italy,Bianco Dry,points_90,price_22.0,Sicily & Sardinia,region_1_Noto,region_2_nan,Moscato,Planeta
+811,Greece,,points_90,price_20.0,Santorini,region_1_nan,region_2_nan,Assyrtiko,Santo Wines
+812,US,Guadalupe Vineyard,points_90,price_48.0,Oregon,region_1_Dundee Hills,region_2_Willamette Valley,Pinot Noir,Soléna
+813,US,,points_90,price_30.0,California,region_1_Napa Valley,region_2_Napa,Chardonnay,Stags' Leap Winery
+814,Italy,Belsito,points_90,price_nan,Sicily & Sardinia,region_1_Vittoria,region_2_nan,Frappato,Terre di Giurfo
+815,France,Bastion Premier Cru,points_90,price_59.0,Burgundy,region_1_Beaune,region_2_nan,Chardonnay,Chanson Père et Fils
+816,France,Rosenberg,points_90,price_24.0,Alsace,region_1_Alsace,region_2_nan,Sylvaner,Domaine Barmès-Buecher
+817,France,Clos de Jeu,points_90,price_nan,Burgundy,region_1_Marsannay,region_2_nan,Pinot Noir,Domaine Collotte
+818,France,L'Aplomb,points_90,price_20.0,Alsace,region_1_Alsace,region_2_nan,White Blend,Domaine Rieflé-Landmann
+819,France,Réserve,points_90,price_20.0,Alsace,region_1_Alsace,region_2_nan,Pinot Blanc,Domaine Weinbach
+820,Italy,Laluci,points_90,price_nan,Sicily & Sardinia,region_1_Sicilia,region_2_nan,White Blend,Baglio del Cristo di Campobello
+821,US,,points_90,price_18.0,Oregon,region_1_Willamette Valley,region_2_Willamette Valley,Pinot Gris,Elizabeth Chambers
+822,US,Circle S Vineyard,points_90,price_70.0,California,region_1_Napa Valley,region_2_Napa,Cabernet Sauvignon,Tetra
+823,US,Dry,points_90,price_25.0,California,region_1_Oak Knoll District,region_2_Napa,Riesling,Trefethen
+824,Italy,Rosato,points_90,price_36.0,Sicily & Sardinia,region_1_Etna,region_2_nan,Nerello Mascalese,Girolamo Russo
+825,Australia,The Dead Arm,points_90,price_65.0,South Australia,region_1_McLaren Vale,region_2_nan,Shiraz,D'Arenberg
+826,US,,points_90,price_42.0,California,region_1_Napa Valley,region_2_Napa,Merlot,Herencia
+827,US,Symphonia,points_90,price_50.0,California,region_1_Napa Valley,region_2_Napa,Cabernet Sauvignon,Levendi
+828,US,,points_90,price_28.0,California,region_1_Mendocino County,region_2_Mendocino/Lake Counties,Negroamaro,Monte Volpe
+829,US,Estate,points_90,price_22.0,California,region_1_Amador County,region_2_Sierra Foothills,Mourvèdre,Morse
+830,US,"Estate Grown, Produced and Bottled",points_90,price_26.0,California,region_1_Sierra Foothills,region_2_Sierra Foothills,Barbera,Naggiar
+831,US,Howell Mountain,points_90,price_80.0,California,region_1_Napa Valley,region_2_Napa,Red Blend,Paraduxx
+832,US,,points_90,price_28.0,California,region_1_Amador County,region_2_Sierra Foothills,Tempranillo,Renwood
+833,Chile,Amplus One,points_90,price_24.0,Peumo,region_1_nan,region_2_nan,Red Blend,Santa Ema
+834,Spain,Reserva,points_90,price_21.0,Northern Spain,region_1_Rioja,region_2_nan,Tempranillo Blend,Beronia
+835,US,Version Red Anna's Vineyard Reserve,points_90,price_50.0,California,region_1_Adelaida District,region_2_Central Coast,Rhône-style Red Blend,Adelaida Cellars
+836,US,Bailey Ranch Riserva,points_90,price_40.0,California,region_1_Adelaida District,region_2_Central Coast,Zinfandel,Bella Luna
+837,US,Made with Organically Grown Grapes,points_90,price_22.0,California,region_1_Sierra Foothills,region_2_Sierra Foothills,Syrah,Chacewater
+838,Germany,Thanisch Kabinett,points_90,price_30.0,Mosel,region_1_nan,region_2_nan,Riesling,Dr. H. Thanisch (Erben Thanisch)
+839,US,Del Arroyo Vineyard,points_90,price_50.0,California,region_1_Livermore Valley,region_2_Central Coast,Cabernet Franc,Occasio
+840,US,Estate Grown,points_90,price_55.0,California,region_1_Moon Mountain District Sonoma County,region_2_Sonoma,Cabernet Sauvignon,Korbin Kameron
+841,Spain,Leopardi Brut Nature Gran Reserva,points_90,price_35.0,Catalonia,region_1_Cava,region_2_nan,Sparkling Blend,Llopart
+842,US,Topaz Impérial Rosé,points_90,price_37.0,New York,region_1_North Fork of Long Island,region_2_Long Island,Champagne Blend,Sparkling Pointe
+843,US,Stymie Founder's Reserve,points_90,price_42.0,California,region_1_Lake County,region_2_Mendocino/Lake Counties,Merlot,Steele
+844,Spain,Brut Reserva Special Edition,points_90,price_25.0,Catalonia,region_1_Cava,region_2_nan,Sparkling Blend,Torelló
+845,US,,points_90,price_60.0,California,region_1_Oak Knoll District,region_2_Napa,Cabernet Sauvignon,Trefethen
+846,US,,points_90,price_27.0,New York,region_1_Finger Lakes,region_2_Finger Lakes,Pinot Noir,Anthony Road
+847,France,En Pimont,points_90,price_45.0,Burgundy,region_1_Chassagne-Montrachet,region_2_nan,Chardonnay,Au Pied du Mont Chauve
+848,France,Vieilles Vignes,points_90,price_20.0,Loire Valley,region_1_Cour-Cheverny,region_2_nan,Romorantin,Benoît Daridan
+849,France,,points_90,price_nan,Loire Valley,region_1_Sancerre,region_2_nan,Sauvignon Blanc,Benoît Girard
+850,US,Geza's Selection,points_90,price_48.0,California,region_1_Sonoma Coast,region_2_Sonoma,Pinot Noir,Buena Vista
+851,Canada,,points_90,price_38.0,British Columbia,region_1_Okanagan Valley,region_2_nan,Syrah,Burrowing Owl
+852,Bulgaria,Nimbus Premium,points_90,price_28.0,Thracian Valley,region_1_nan,region_2_nan,Syrah,Castra Rubra
+853,France,Les Brunettes et Planchots,points_90,price_80.0,Burgundy,region_1_Aloxe-Corton,region_2_nan,Pinot Noir,Château de Santenay
+854,France,,points_90,price_19.0,Loire Valley,region_1_Pouilly-Fumé,region_2_nan,Sauvignon Blanc,Château Favray
+855,US,The Diva,points_90,price_45.0,California,region_1_Santa Lucia Highlands,region_2_Central Coast,Pinot Noir,Chateau Lettau
+856,Italy,,points_90,price_56.0,Tuscany,region_1_Brunello di Montalcino,region_2_nan,Sangiovese,Corte dei Venti
+857,France,,points_90,price_24.0,Rhône Valley,region_1_Tavel,region_2_nan,Rosé,Prieuré de Montézargues
+858,Spain,Lapola,points_90,price_36.0,Galicia,region_1_Ribeira Sacra,region_2_nan,Godello,Dominio Do Bibei
+859,Spain,Viña AB Amontillado Seco,points_90,price_26.0,Andalucia,region_1_Jerez,region_2_nan,Palomino,González Byass
+860,Italy,Riserva,points_90,price_25.0,Tuscany,region_1_Chianti Classico,region_2_nan,Red Blend,Il Brunone
+861,US,,points_90,price_15.0,California,region_1_Dunnigan Hills,region_2_Central Valley,Tempranillo,Matchbook
+862,Italy,Riserva,points_90,price_22.0,Tuscany,region_1_Chianti Classico,region_2_nan,Sangiovese,Luiano
+863,Italy,,points_90,price_20.0,Tuscany,region_1_Chianti Classico,region_2_nan,Red Blend,Villa Mangiacane
+864,Spain,Valcortes Crianza,points_90,price_30.0,Northern Spain,region_1_Rioja,region_2_nan,Tempranillo,Maset del Lleó
+865,Italy,Riserva,points_90,price_30.0,Tuscany,region_1_Vino Nobile di Montepulciano,region_2_nan,Red Blend,Salcheto
+866,Italy,,points_90,price_18.0,Tuscany,region_1_Chianti Classico,region_2_nan,Red Blend,Vignavecchia
+867,Italy,Il Palei,points_90,price_22.0,Tuscany,region_1_Chianti Classico,region_2_nan,Sangiovese,Villa a Sesta
+868,Italy,Riserva,points_90,price_28.0,Tuscany,region_1_Chianti Classico,region_2_nan,Red Blend,Castello della Paneretta
+869,US,Reserve,points_90,price_40.0,California,region_1_Paso Robles,region_2_Central Coast,Cabernet Sauvignon,EOS
+870,US,Collaboration Series,points_92,price_35.0,Washington,region_1_Red Mountain,region_2_Columbia Valley,Viognier,Force Majeure
+871,US,Fort Ross Vineyard,points_92,price_44.0,California,region_1_Fort Ross-Seaview,region_2_Sonoma,Chardonnay,Fort Ross
+872,US,Nielson Vineyard,points_92,price_32.0,California,region_1_Santa Maria Valley,region_2_Central Coast,Chardonnay,Byron
+873,Chile,Edición Limitada B,points_92,price_30.0,Colchagua Valley,region_1_nan,region_2_nan,Bordeaux-style Red Blend,Caliterra
+874,Italy,Maria di Brun,points_92,price_113.0,Piedmont,region_1_Barbaresco,region_2_nan,Nebbiolo,Ca'Romè
+875,France,Vignoble d'E,points_92,price_30.0,Alsace,region_1_Alsace,region_2_nan,Riesling,Domaine Ostertag
+876,Italy,Vigna del Gris,points_92,price_92.0,Piedmont,region_1_Barolo,region_2_nan,Nebbiolo,Conterno Fantino
+877,Italy,Leon Riserva,points_92,price_75.0,Piedmont,region_1_Barolo,region_2_nan,Nebbiolo,Rivetto
+878,US,Bedrock Vineyard,points_92,price_50.0,California,region_1_Sonoma Valley,region_2_Sonoma,Zinfandel,Robert Biale
+879,US,Estate Bottled,points_92,price_27.0,California,region_1_Arroyo Grande Valley,region_2_Central Coast,Chardonnay,Talley
+880,Italy,Cuvée Giulio I,points_92,price_49.0,Piedmont,region_1_Alta Langa,region_2_nan,Pinot Nero,Tosti
+881,Italy,,points_92,price_19.0,Piedmont,region_1_Barbaresco,region_2_nan,Nebbiolo,Veglio
+882,Portugal,Seleção do Enólogo,points_92,price_11.0,Dão,region_1_nan,region_2_nan,Portuguese Red,Pedra Cancela
+883,Portugal,Vale de Cavalos,points_92,price_44.0,Douro,region_1_nan,region_2_nan,Portuguese Red,Poças
+884,France,Schlossberg Grand Cru,points_92,price_24.0,Alsace,region_1_Alsace,region_2_nan,Riesling,Joseph Fritsch
+885,US,Late Harvest,points_92,price_15.0,Washington,region_1_Columbia Valley (WA),region_2_Columbia Valley,Riesling,Kiona
+886,US,Tierra Alta Vineyard,points_92,price_35.0,California,region_1_Santa Ynez Valley,region_2_Central Coast,Syrah,Comartin
+887,US,Lone Oak Vineyard Estate,points_92,price_33.0,California,region_1_Santa Cruz Mountains,region_2_Central Coast,Cabernet Sauvignon,Cooper-Garrod
+888,US,,points_92,price_140.0,Washington,region_1_Columbia Valley (WA),region_2_Columbia Valley,Merlot,Matteo
+889,US,,points_92,price_35.0,California,region_1_Santa Barbara County,region_2_Central Coast,Syrah-Cabernet Sauvignon,Epiphany
+890,US,Collaboration Series Force Majeure Vineyard,points_92,price_75.0,Washington,region_1_Red Mountain,region_2_Columbia Valley,Cabernet Sauvignon,Force Majeure
+891,US,Cuvée Jeanne Marie Williamson-Dore Vineyard,points_92,price_40.0,California,region_1_Santa Ynez Valley,region_2_Central Coast,Rhône-style Red Blend,Foxen
+892,Chile,Tralca,points_92,price_100.0,Colchagua Valley,region_1_nan,region_2_nan,Red Blend,Viña Bisquertt
+893,US,Underwood Mountain,points_92,price_21.0,Washington,region_1_Columbia Gorge (WA),region_2_Washington Other,Riesling,Savage Grace
+894,US,Portolan,points_92,price_80.0,California,region_1_Paso Robles,region_2_Central Coast,Red Blend,Sextant
+895,US,Avansino Grand Reserve,points_92,price_28.0,Washington,region_1_Columbia Valley (WA),region_2_Columbia Valley,Cabernet Sauvignon,Arbor Crest
+896,US,Sun Chase Vineyard,points_92,price_40.0,California,region_1_Sonoma Coast,region_2_Sonoma,Chardonnay,Evening Land
+897,Italy,Munjebel Bianco 9,points_92,price_40.0,Italy Other,region_1_Vino da Tavola,region_2_nan,White Blend,Frank Cornelissen
+898,Italy,Sorì Tildin,points_92,price_500.0,Piedmont,region_1_Langhe,region_2_nan,Red Blend,Gaja
+899,France,Jubiléé,points_92,price_55.0,Alsace,region_1_Alsace,region_2_nan,Gewürztraminer,Hugel
+900,Argentina,Bramare,points_93,price_40.0,Mendoza Province,region_1_Valle de Uco,region_2_nan,Malbec,Viña Cobos
+901,US,,points_93,price_40.0,California,region_1_Edna Valley,region_2_Central Coast,Syrah,Chamisal Vineyards
+902,US,Silhouette,points_93,price_65.0,California,region_1_Napa Valley,region_2_Napa,Chardonnay,Merryvale
+903,France,Crouzeilles-Côte Abeilles,points_93,price_65.0,Southwest France,region_1_Madiran,region_2_nan,Tannat-Cabernet,Producteurs Plaimont
+904,US,Sonnie's Sawyer Lindquist Vineyard,points_93,price_nan,California,region_1_Edna Valley,region_2_Central Coast,Syrah,Qupé
+905,US,,points_93,price_28.0,California,region_1_San Luis Obispo,region_2_Central Coast,Syrah,Sinor-LaVallee
+906,US,Sullivan Vineyard Dutton Ranch,points_93,price_51.0,California,region_1_Russian River Valley,region_2_Sonoma,Chardonnay,The Calling
+907,France,Cuvée 946,points_93,price_50.0,Provence,region_1_Côtes de Provence Sainte-Victoire,region_2_nan,Rosé,Château Gassier
+908,France,Jadis,points_93,price_34.0,Provence,region_1_Côtes de Provence,region_2_nan,Rosé,Château Grand Boise
+909,France,,points_93,price_50.0,Southwest France,region_1_Cahors,region_2_nan,Malbec,Château Lagrézette
+910,France,Grande Cuvée No. 8,points_93,price_30.0,Provence,region_1_Côtes de Provence La Londe,region_2_nan,Rosé,Château les Valentines
+911,France,Inspire,points_93,price_40.0,Provence,region_1_Côtes de Provence,region_2_nan,Rosé,Château Roubine
+912,US,,points_93,price_30.0,California,region_1_Paso Robles,region_2_Central Coast,Cabernet Sauvignon,Daou
+913,US,Sage Vineyard,points_93,price_45.0,California,region_1_Napa Valley,region_2_Napa,Sauvignon Blanc,Darioush
+914,US,The Maneater Derby Vineyard,points_93,price_32.0,California,region_1_Paso Robles,region_2_Central Coast,Red Blend,Derby
+915,US,Récolte Grand Cru,points_93,price_125.0,Oregon,region_1_Dundee Hills,region_2_Willamette Valley,Chardonnay,Domaine Serene
+916,US,Sycamore Vineyard,points_93,price_150.0,California,region_1_Rutherford,region_2_Napa,Cabernet Sauvignon,Freemark Abbey
+917,US,Seven Pillars Jess' Block,points_93,price_60.0,California,region_1_Fort Ross-Seaview,region_2_Sonoma,Syrah,Hard Six Cellars
+918,US,Domaine,points_93,price_70.0,Oregon,region_1_Willamette Valley,region_2_Willamette Valley,Pinot Noir,King Estate
+919,Spain,Almancenista José Luis González Obregón Amontillado del Puerto,points_93,price_30.0,Andalucia,region_1_Jerez,region_2_nan,Sherry,Lustau
+920,US,Balcombe Vineyard Block 1B,points_93,price_60.0,Oregon,region_1_Dundee Hills,region_2_Willamette Valley,Pinot Noir,Patricia Green Cellars
+921,US,Schwarze Vineyard Brut,points_93,price_80.0,California,region_1_Carneros,region_2_Napa-Sonoma,Sparkling Blend,Schramsberg
+922,France,Château Bouscassé Menhir,points_93,price_25.0,Southwest France,region_1_Côtes de Gascogne,region_2_nan,Tannat-Merlot,Vignobles Brumont
+923,US,Flocchini Vineyard Petaluma Gap,points_93,price_32.0,California,region_1_Sonoma Coast,region_2_Sonoma,Syrah,Waxwing
+924,Spain,,points_93,price_61.0,Northern Spain,region_1_Rioja,region_2_nan,Tempranillo,San Vicente
+925,US,Deja Vu,points_93,price_60.0,California,region_1_Sta. Rita Hills,region_2_Central Coast,Pinot Noir,Babcock
+926,US,Top Cream Babcock Vineyard,points_93,price_45.0,California,region_1_Sta. Rita Hills,region_2_Central Coast,Chardonnay,Babcock
+927,US,Temperance Hill Vineyard,points_93,price_60.0,Oregon,region_1_Eola-Amity Hills,region_2_Willamette Valley,Pinot Noir,Bergström
+928,US,King Ridge Vineyard,points_93,price_80.0,California,region_1_Fort Ross-Seaview,region_2_Sonoma,Pinot Noir,Blue Farm
+929,US,Jasper,points_93,price_85.0,California,region_1_Santa Maria Valley,region_2_Central Coast,Pinot Noir,Challen
+930,Italy,I Sodi di San Niccolò,points_89,price_90.0,Tuscany,region_1_Toscana,region_2_nan,Red Blend,Castellare di Castellina
+931,Portugal,Alma Grande Reserva,points_89,price_18.0,Douro,region_1_nan,region_2_nan,Portuguese Red,Caves Velhas
+932,Portugal,D. Fuas Reserva,points_89,price_7.0,Terras do Dão,region_1_nan,region_2_nan,Portuguese Red,Caves Velhas
+933,Portugal,Magna Carta Reserva,points_89,price_17.0,Alentejano,region_1_nan,region_2_nan,Portuguese Red,Caves Velhas
+934,France,Le Monde on Parle,points_89,price_18.0,Southwest France,region_1_Gaillac,region_2_nan,Duras,Domaine des Terrisses
+935,US,Faith,points_89,price_39.0,California,region_1_California,region_2_California Other,Red Blend,Aver Family Vineyards
+936,Chile,Justo,points_89,price_17.0,Leyda Valley,region_1_nan,region_2_nan,Sauvignon Blanc,Claro
+937,France,CSV,points_89,price_20.0,Southwest France,region_1_Côtes du Lot,region_2_nan,White Blend,Clos Troteligotte
+938,Chile,Marques de Casa Concha,points_89,price_22.0,Leyda Valley,region_1_nan,region_2_nan,Sauvignon Blanc,Concha y Toro
+939,US,,points_89,price_25.0,California,region_1_Carneros,region_2_Napa-Sonoma,Chardonnay,Conn Creek
+940,Spain,Hisenda Miret Microcuvée Garnatxa,points_89,price_50.0,Catalonia,region_1_Penedès,region_2_nan,Garnacha,Parés Baltà
+941,US,Estate Infrared,points_89,price_31.0,California,region_1_Livermore Valley,region_2_Central Coast,Rhône-style Red Blend,Fenestra
+942,Germany,Schwarzer Adler,points_89,price_25.0,Baden,region_1_nan,region_2_nan,Pinot Gris,Franz Keller
+943,Chile,,points_89,price_26.0,Limarí Valley,region_1_nan,region_2_nan,Red Blend,Maray
+944,Italy,Inferno,points_89,price_27.0,Lombardy,region_1_Valtellina Superiore,region_2_nan,Red Blend,Nino Negri
+945,US,Brut Cuvée,points_89,price_25.0,California,region_1_Arroyo Grande Valley,region_2_Central Coast,Sparkling Blend,Laetitia
+946,Italy,D'Aria,points_89,price_22.0,Tuscany,region_1_Toscana,region_2_nan,Red Blend,Leopoldo I di Toscana
+947,US,Logsdon Ridge Vineyard Rudolfo,points_89,price_18.0,Oregon,region_1_Willamette Valley,region_2_Willamette Valley,Pinot Gris,Lumos
+948,Chile,,points_89,price_20.0,Colchagua Valley,region_1_nan,region_2_nan,Cabernet Sauvignon,Maquis
+949,Italy,Potenti,points_89,price_65.0,Tuscany,region_1_Toscana,region_2_nan,Cabernet Sauvignon,Petra
+950,Portugal,Carvalhas,points_89,price_60.0,Douro,region_1_nan,region_2_nan,Tinta Francisca,Quinta das Carvalhas
+951,Italy,Ser Gioveto,points_89,price_52.0,Tuscany,region_1_Toscana,region_2_nan,Red Blend,Rocca delle Macìe
+952,US,Pinot Noir,points_89,price_25.0,Oregon,region_1_Dundee Hills,region_2_Willamette Valley,Rosé,Stoller
+953,US,Oakville Estate,points_89,price_65.0,California,region_1_Oakville,region_2_Napa,Cabernet Sauvignon,Tamber Bey
+954,Italy,,points_89,price_240.0,Tuscany,region_1_Toscana,region_2_nan,Red Blend,Tenuta di Trinoro
+955,Italy,Crognolo,points_89,price_35.0,Tuscany,region_1_Toscana,region_2_nan,Red Blend,Tenuta Sette Ponti
+956,US,Z'ivo Vineyard Reserve,points_89,price_40.0,Oregon,region_1_Willamette Valley,region_2_Willamette Valley,Pinot Noir,Walnut City WineWorks
+957,Portugal,Andreza,points_89,price_18.0,Douro,region_1_nan,region_2_nan,Portuguese Red,Wines & Winemakers
+958,US,,points_89,price_26.0,California,region_1_Santa Barbara County,region_2_Central Coast,Pinot Noir,YNOT
+959,Greece,Ambelos Phos Roditis-Moschofilero,points_89,price_13.0,Peloponnese,region_1_nan,region_2_nan,White Blend,Zacharias
+960,Italy,San Bernardo Riserva,points_90,price_nan,Piedmont,region_1_Roero,region_2_nan,Nebbiolo,Negro Angelo e Figli
+961,US,,points_90,price_28.0,Oregon,region_1_Oregon,region_2_Oregon Other,Tempranillo,Obsidian
+962,Portugal,Vale de Cavalos,points_90,price_18.0,Douro,region_1_nan,region_2_nan,Portuguese Red,Poças
+963,US,Coro Mendocino,points_90,price_40.0,California,region_1_Mendocino,region_2_Mendocino/Lake Counties,Red Blend,Ray's Station Vineyards
+964,Spain,Reserva,points_90,price_35.0,Northern Spain,region_1_Rioja,region_2_nan,Tempranillo Blend,Rioja Vega
+965,Italy,Zio Nando,points_90,price_38.0,Piedmont,region_1_Barbera d'Alba,region_2_nan,Barbera,Rivetto
+966,Israel,Special Reserve,points_90,price_20.0,Galilee,region_1_nan,region_2_nan,Cabernet Sauvignon,Segal's
+967,US,MK Vineyard,points_90,price_72.0,California,region_1_Sonoma Coast,region_2_Sonoma,Pinot Noir,Small Vines
+968,Germany,Bockstein Ockfen Auslese Erste Lage,points_90,price_60.0,Mosel,region_1_nan,region_2_nan,Riesling,St. Urbans-Hof
+969,US,Whole Cluster,points_90,price_44.0,California,region_1_Anderson Valley,region_2_Mendocino/Lake Counties,Pinot Noir,Stemmler
+970,Israel,Mt. Tabor,points_90,price_15.0,Galilee,region_1_nan,region_2_nan,Cabernet Sauvignon,Tabor
+971,Italy,Castelletto,points_90,price_70.0,Piedmont,region_1_Barolo,region_2_nan,Nebbiolo,Tenuta Duecorti
+972,Portugal,Terra d'Alter Reserva Branco,points_90,price_30.0,Alentejano,region_1_nan,region_2_nan,Portuguese White,Terras de Alter
+973,US,Estate,points_90,price_36.0,California,region_1_Russian River Valley,region_2_Sonoma,Chardonnay,Thomas George
+974,Israel,Espero,points_90,price_40.0,Galilee,region_1_nan,region_2_nan,Red Blend,Tulip Winery
+975,US,,points_90,price_70.0,California,region_1_Sta. Rita Hills,region_2_Central Coast,Chardonnay,Wedell Cellars
+976,US,Meredith Mitchell Vineyard,points_90,price_48.0,Oregon,region_1_McMinnville,region_2_Willamette Valley,Pinot Noir,Winderlea
+977,Israel,,points_90,price_55.0,Judean Hills,region_1_nan,region_2_nan,Cabernet Sauvignon,Yatir
+978,Italy,Leon,points_90,price_42.0,Piedmont,region_1_Barolo,region_2_nan,Nebbiolo,Cascina Luisin
+979,US,,points_90,price_125.0,California,region_1_Rutherford,region_2_Napa,Cabernet Sauvignon,Azari
+980,Italy,Cannubi,points_90,price_110.0,Piedmont,region_1_Barolo,region_2_nan,Nebbiolo,Borgogno Giacomo e Figli
+981,Italy,Rapet,points_90,price_103.0,Piedmont,region_1_Barbaresco,region_2_nan,Nebbiolo,Ca'Romè
+982,Italy,Bernardot,points_90,price_100.0,Piedmont,region_1_Barbaresco,region_2_nan,Nebbiolo,Ceretto
+983,Italy,Margheria,points_90,price_40.0,Piedmont,region_1_Barolo,region_2_nan,Nebbiolo,Luigi Pira
+984,Italy,Ascheri,points_90,price_68.0,Piedmont,region_1_Barolo,region_2_nan,Nebbiolo,Reverdito
+985,Spain,Reserva,points_90,price_24.0,Northern Spain,region_1_Ribera del Duero,region_2_nan,Tempranillo,Valdubón
+986,Italy,Castiglione,points_90,price_52.0,Piedmont,region_1_Barolo,region_2_nan,Nebbiolo,Vietti
+987,Australia,Coal River Valley Single Site,points_90,price_65.0,Tasmania,region_1_Tasmania,region_2_nan,Pinot Noir,Dalrymple
+988,US,Juel,points_90,price_37.0,Oregon,region_1_Willamette Valley,region_2_Willamette Valley,Pinot Noir,Antiquum Farm
+989,US,Vintage Brut,points_90,price_28.0,Oregon,region_1_Willamette Valley,region_2_Willamette Valley,Sparkling Blend,Argyle
+990,Italy,,points_85,price_nan,Veneto,region_1_Soave,region_2_nan,Garganega,Marcello Turra
+991,US,,points_85,price_13.0,California,region_1_California,region_2_California Other,Chardonnay,Auspicion
+992,Israel,Admon Vineyard,points_85,price_30.0,Galilee,region_1_nan,region_2_nan,Chardonnay,Carmel
+993,Portugal,Campelo,points_85,price_10.0,Vinho Verde,region_1_nan,region_2_nan,Portuguese White,Caves Campelo
+994,Portugal,Miranda,points_85,price_9.0,Vinho Verde,region_1_nan,region_2_nan,Portuguese White,Caves Campelo
+995,Portugal,Plexus Tinto,points_85,price_7.0,Tejo,region_1_nan,region_2_nan,Alicante Bouschet,Adega Cooperativa do Cartaxo
+996,Portugal,Blanc de Blancs Bruto,points_85,price_12.0,Beira Atlantico,region_1_nan,region_2_nan,Portuguese Sparkling,Adega de Cantanhede
+997,France,La Galope,points_85,price_15.0,Southwest France,region_1_Côtes de Gascogne,region_2_nan,Sauvignon Blanc,Domaine de l'Herré
+998,France,,points_85,price_9.0,Southwest France,region_1_Côtes de Gascogne,region_2_nan,White Blend,Domaine du Touja
+999,Argentina,,points_85,price_11.0,Mendoza Province,region_1_Mendoza,region_2_nan,Malbec,Proemio
